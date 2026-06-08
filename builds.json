@@ -237,7 +237,29 @@
     "patch": "0.5.1",
     "summary": "Проклинающий лич: накладывает ауры-проклятия, ослабляя врагов, и добивает их тёмной магией. Сильный эндгейм-гибрид саппорта и урона.",
     "keySkills": ["Blasphemy", "Despair", "Essence Drain"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/blasphemy-cursebot-lich-endgame-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/blasphemy-cursebot-lich-endgame-build-guide",
+    "mainSkill": "Blasphemy (ауры-проклятия)",
+    "supportGems": ["Incessant Cacophony", "Enfeeble", "Vulnerability", "Despair", "Temporal Chains", "Elemental Weakness"],
+    "ascendancyNodes": ["Necromantic Conduit", "Blackened Heart", "Rupture the Soul", "Incessant Cacophony"],
+    "keyGear": [
+      "Alpha's Howl — шлем",
+      "The Prisoner's Manacles — перчатки",
+      "Vile Robe — броня",
+      "Doedre's Damning / Grip of Kulemak — кольца",
+      "Darkness Enthroned — пояс"
+    ],
+    "statPriority": [
+      "Энергощит (максимум)",
+      "Интеллект (основное масштабирование)",
+      "Мана и % маны (100+ на ботинках)",
+      "Скорость передвижения 30-35%"
+    ],
+    "levelingSteps": [
+      "Эндгейм-версия рассчитана на ур. 70+",
+      "До этого качаемся обычным сетапом лича"
+    ],
+    "pros": ["Билд «0 кнопок»", "Бесконечное наложение проклятий", "Множитель урона для группы (2×+)"],
+    "cons": ["Раскрывается в групповой игре", "Сложности с выживаемостью", "Эндгейм-версия с порога ур. 70+"]
   },
   {
     "id": "whirling-assault-titan",
@@ -248,7 +270,31 @@
     "patch": "0.5.1",
     "summary": "Воин-вихрь: раскручивается в гущу врагов, нанося урон по кругу. Танковый ближний бой для эндгейма.",
     "keySkills": ["Whirling Assault", "Hulking Form", "Leap Slam"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/whirling-assault-titan-endgame-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/whirling-assault-titan-endgame-build-guide",
+    "mainSkill": "Whirling Assault",
+    "supportGems": ["Ancestral Call II", "Channelled Heritage", "Atalui's Bloodletting", "Garukhan's Resolve", "Uul-Netol's Embrace", "Ailith's Chimes"],
+    "ascendancyNodes": ["Hulking Form", "Stone Skin", "Crushing Impacts / Mysterious Lineage"],
+    "keyGear": [
+      "The Brass Dome — обязательный уник (броня)",
+      "Ryslatha's Coil — пояс-уник",
+      "Skullcrusher Quarterstaff — оружие",
+      "Constricting Command — уник"
+    ],
+    "statPriority": [
+      "Сопротивления до капа (74-75%)",
+      "Максимум жизни",
+      "Броня (600%+ на corrupted Brass Dome)",
+      "Шанс и урон критического удара",
+      "Площадь эффекта",
+      "Вампиризм физического урона"
+    ],
+    "levelingSteps": [
+      "Прокачка обычным ближним боем воина",
+      "Собираем связку к появлению The Brass Dome",
+      "Эндгейм: полный сетап Whirling Assault"
+    ],
+    "pros": ["Зачистка экрана по площади", "Высокая выживаемость через броню", "Комфортный маппинг, тянет весь контент"],
+    "cons": ["Требует конкретные уники (The Brass Dome обязателен)", "Одиночный урон зависит от ротации", "Нужно следить за требованиями характеристик"]
   },
   {
     "id": "ice-shot-deadeye",
@@ -259,7 +305,34 @@
     "patch": "0.5.1",
     "summary": "Ледяной стрелок: выстрелы взрываются осколками льда, замораживая и зачищая экраны. Надёжный лиг-стартер.",
     "keySkills": ["Ice Shot", "Herald of Ice", "Snipe"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/ice-shot-deadeye-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/ice-shot-deadeye-build-guide",
+    "mainSkill": "Ice Shot",
+    "supportGems": ["Snipe — добивание замороженных целей", "Herald of Ice — цепные взрывы льда"],
+    "ascendancyNodes": ["Gathering Winds", "Called Shots", "Bullseye", "Point Blank"],
+    "keyGear": [
+      "Hyrri's Ire — броня-уник",
+      "Cadiro's Gambit — колчан",
+      "Slivertongue — уник-лук",
+      "Rakiata's Flow / Garukhan's Resolve — уники",
+      "Headhunter — пояс (опционально)"
+    ],
+    "statPriority": [
+      "Сопротивления до капа (75%)",
+      "+макс. жизнь",
+      "Рейтинг уклонения",
+      "Урон атак и стихий с атак",
+      "Скорость атаки",
+      "Шанс и урон критического удара",
+      "+уровни снарядов, скорость передвижения на ботинках"
+    ],
+    "levelingSteps": [
+      "Старт: Frost Bomb, Escape Shot, Lightning Arrow",
+      "Ур. 14: Freezing Salvo",
+      "Ур. 31: переход на Ice Shot",
+      "Stormcaller Arrow — пока не доступен Snipe"
+    ],
+    "pros": ["Огромный потенциал заморозки", "Сильная зачистка ледяными взрывами", "Высокий одиночный урон через Snipe по заморозке"],
+    "cons": ["Защита держится на заморозке — против иммунных к заморозке сложнее", "Хрупкий до набора шмота"]
   },
   {
     "id": "minion-army-infernalist",
@@ -270,7 +343,33 @@
     "patch": "0.5.1",
     "summary": "Армия миньонов: толпа прислужников делает всю работу, пока вы баффаете и проклинаете. Дружелюбен к новичкам.",
     "keySkills": ["Summon Skeletal Snipers", "Raise Zombie", "Flammability"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/minion-army-infernalist-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/minion-army-infernalist-build-guide",
+    "mainSkill": "Армия миньонов (Skeletal Snipers + Volcano)",
+    "supportGems": ["Minion Splash I", "Meat Shield II", "Magnified Area II", "Elemental Army", "Pain Offering", "Arcane Surge"],
+    "ascendancyNodes": ["Loyal Hellhound", "Altered Flesh", "Beidat's Will", "Beidat's Hand"],
+    "keyGear": [
+      "Bones of Ullr — уник",
+      "Trenchtimbre — уник",
+      "Rattling / Stoic Sceptre — скипетр",
+      "Prism Guardian — щит",
+      "Ventor's Gamble — кольцо"
+    ],
+    "statPriority": [
+      "Сопротивления до капа (75%)",
+      "Хаос-резист 60%+",
+      "+уровни всех скиллов миньонов (главный множитель урона)",
+      "+Spirit и % Spirit",
+      "Жизнь 1400+, энергощит",
+      "Шанс блока на щите"
+    ],
+    "levelingSteps": [
+      "Акт 1: Skeletal Sniper + Volcano",
+      "Акт 2: Frost Bomb, Contagion",
+      "Акт 3: Raging Spirits, Pain Offering, Elemental Weakness",
+      "Акт 4+: спектры вместо поджигателей"
+    ],
+    "pros": ["Урон миньонов масштабируется из многих источников", "Не требует обязательных уников", "Работает от кампании до эндгейма", "Защита: энергощит + блок"],
+    "cons": ["Vaal Guard-спектр может просаживать производительность", "Ранний менеджмент маны", "Лимит Spirit на число миньонов", "Уязвимость к хаос-урону"]
   },
   {
     "id": "bleed-rake-amazon",
@@ -281,7 +380,32 @@
     "patch": "0.5.1",
     "summary": "Амазонка-кровотечение: копьём наносит глубокие порезы, враги истекают кровью со временем. Сильный физический ДоТ.",
     "keySkills": ["Rake", "Bleeding", "Disengage"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/bleed-rake-amazon-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/bleed-rake-amazon-build-guide",
+    "mainSkill": "Rake",
+    "supportGems": ["Poison III", "Bursting Plague", "Single Out", "Rupture", "Greater Vision Rune"],
+    "ascendancyNodes": ["Critical Strike", "Predatory Instinct", "Penetrate", "In for the Kill / Azmeri Brew"],
+    "keyGear": [
+      "Horns of Bynden — уник",
+      "Venopuncture — уник (ур. 36+)",
+      "Lycosidae — щит-уник",
+      "Ryslatha's Coil — пояс",
+      "Cloak of Flame / Reverie — броня"
+    ],
+    "statPriority": [
+      "Сопротивления до капа (75%)",
+      "Физурон и % физического урона",
+      "Скорость атаки",
+      "Шанс и урон критического удара",
+      "Сила кровотечения (Bleeding Magnitude)",
+      "Точность 150+, жизнь, уклонение, вампиризм физурона"
+    ],
+    "levelingSteps": [
+      "Акт 1: Explosive Spear",
+      "Ур. 14: Spearfield",
+      "Ранние карты: Rake, Disengage, Blood Hunt, Herald of Blood"
+    ],
+    "pros": ["Высокий урон через масштабирование кровотечения", "Отличная мобильность (Rake, Disengage)", "Зачистка на дистанции (Spearfield)", "Сильный одиночный бёрст"],
+    "cons": ["Уязвимость к оглушению", "Сложные требования характеристик", "RNG защиты на уклонении"]
   },
   {
     "id": "cold-spark-pathfinder",
