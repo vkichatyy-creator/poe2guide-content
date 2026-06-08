@@ -1,5 +1,16 @@
 [
   {
+    "id": "chronomancer-cold",
+    "name": "Cold Snap Chronomancer",
+    "className": "Sorceress",
+    "ascendancy": "Chronomancer",
+    "tier": "S",
+    "patch": "0.2",
+    "summary": "НОВЫЙ билд — добавлен по сети без пересборки приложения. Контроль времени и холода: замораживает врагов и копит критический урон. Безопасный контрольный стиль.",
+    "keySkills": ["Cold Snap", "Frost Wall", "Time Freeze"],
+    "guideUrl": "https://maxroll.gg/poe2/build-guides"
+  },
+  {
     "id": "lightning-spear-deadeye",
     "name": "Lightning Spear Deadeye",
     "className": "Ranger",
