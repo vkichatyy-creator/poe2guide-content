@@ -57,7 +57,32 @@
     "patch": "0.5.1",
     "summary": "Лучник-вихрь: создаёт смерчи, которые перемалывают толпы и дают отличный клир карт. Подвижный и зрелищный стиль игры.",
     "keySkills": ["Tornado", "Lightning Arrow", "Snipe"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/twister-deadeye-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/twister-deadeye-build-guide",
+    "mainSkill": "Twister",
+    "supportGems": ["Ice-Tipped Arrows", "Barrage", "Salvo", "Pinpoint Critical", "Eternal Mark", "Inexorable Critical II"],
+    "ascendancyNodes": ["Gathering Winds", "Avidity", "Thrilling Chase", "Called Shots"],
+    "keyGear": [
+      "Wake of Destruction — уник на урон",
+      "The Taming — кольцо-уник",
+      "Garukhan's Resolve — уник",
+      "Skysliver / Omen Sceptre — оружие",
+      "Slipstrike Vest — броня"
+    ],
+    "statPriority": [
+      "Сопротивления стихиям до капа (75%)",
+      "Положительный хаос-резист",
+      "Скорость атаки (1-й комплект оружия)",
+      "Скорость и длительность снарядов, площадь эффекта",
+      "Уклонение 1200+",
+      "Рейтинг отражения до 95%"
+    ],
+    "levelingSteps": [
+      "Акт 1: Fangs of Frost + парирование с баклером",
+      "Акт 2: берём Frost Nexus, убираем Fangs of Frost",
+      "Акт 3+: добавляем Herald of Ice"
+    ],
+    "pros": ["Огромное покрытие по площади", "Приятные заморозки и раскол (shatter)", "Универсален: карты и боссы"],
+    "cons": ["Уязвим против боссов в ожидании кулдаунов", "Хрупкий на старте"]
   },
   {
     "id": "arc-stormweaver",
@@ -68,7 +93,33 @@
     "patch": "0.5.1",
     "summary": "Классический маг молний: Arc прыгает между врагами, выкашивая пачки. Простой в освоении и стабильный кастер.",
     "keySkills": ["Arc", "Lightning Conduit", "Arcane Surge"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/arc-stormweaver-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/arc-stormweaver-build-guide",
+    "mainSkill": "Arc",
+    "supportGems": ["Zenith II", "связка наращивается до 6 линков (Jeweller's Orb)"],
+    "ascendancyNodes": ["Constant Gale", "Strike Twice", "Storm's Recollection", "Heavy Snows", "опц.: Refracted Infusion / Force of Will"],
+    "keyGear": [
+      "Voltaic Staff — стартовый посох",
+      "Chiming Staff — со 2-го комплекта оружия (ур. 25+)",
+      "Sione's Temper — уник на скорость зачистки",
+      "Arbiter's Ignition — уник под одиночные цели",
+      "Lavianga's Spirits — фласка"
+    ],
+    "statPriority": [
+      "Энергощит 6000+ (до Chaos Inoculation)",
+      "+60 к макс. Spirit (под Archmage)",
+      "Сопротивления стихиям до капа (75%)",
+      "+уровни молниевых и спелл-скиллов",
+      "Скорость каста"
+    ],
+    "levelingSteps": [
+      "Ур. 6: Orb of Storms",
+      "Ур. 14: открывается Arc",
+      "Ур. 22: Mana Tempest",
+      "Ур. 25: Sigil of Power (Chiming Staff)",
+      "До Archmage — Arctic Armour / Convalescence"
+    ],
+    "pros": ["Сильная зачистка по площади", "Большой запас энергощита", "Быстрый старт лиги (кампания ~4 ч)"],
+    "cons": ["Стиль «не дай себя ударить» — мало права на ошибку"]
   },
   {
     "id": "companion-spirit-walker",
@@ -79,7 +130,31 @@
     "patch": "0.5.1",
     "summary": "Охотница с духом-спутником: питомец танкует и наносит урон, пока вы его поддерживаете. Комфортный полу-минионный билд.",
     "keySkills": ["Summon Companion", "Spear Throw", "Herald of Blood"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/companion-spirit-walker-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/companion-spirit-walker-build-guide",
+    "mainSkill": "Companion (призыв зверя — Mighty Silverfist)",
+    "supportGems": ["Rapid Attacks II", "Rage III", "Hulking Minions", "Muster", "Loyalty"],
+    "ascendancyNodes": ["The Catha's Balance", "The Natural Order", "Idolatry", "Crystalline Flesh", "Relentless Fallen", "Splintering Force"],
+    "keyGear": [
+      "Tyranny's Grip — улучшается 2× на Verisium Anvil",
+      "Sylvan's Effigy — уник",
+      "Скипетр с +уровнями миньонов",
+      "Шлем с +уровнями миньонов",
+      "Щит с резистами и жизнью"
+    ],
+    "statPriority": [
+      "Сопротивления стихиям 75%",
+      "Максимум жизни (приоритет)",
+      "+уровни скиллов миньонов (скипетр/шлем/амулет)",
+      "Доп. урон к атакам (кольца/перчатки)",
+      "Скорость передвижения на ботинках"
+    ],
+    "levelingSteps": [
+      "Акты 1-2: Spear Stab + Whirling Assault",
+      "Акт 3 (Jungle Ruins): приручить Mighty Silverback",
+      "После Акта 3: Explosive / Flash Grenade (с Multishot)"
+    ],
+    "pros": ["Простой пассивный стиль игры", "Не требует уников для работы", "Урон делают миньоны"],
+    "cons": ["После нерфа меньше митигации", "Нужно приручать конкретных зверей", "Сложный менеджмент резерва с несколькими спутниками"]
   },
   {
     "id": "grim-pillars-spell-totem-oracle",
@@ -90,7 +165,33 @@
     "patch": "0.5.1",
     "summary": "Тотемный друид: расставляет колонны-тотемы, которые наносят урон за вас. Безопасная игра на расстоянии.",
     "keySkills": ["Grim Pillars", "Spell Totem", "Hexblast"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/grim-pillars-spell-totem-oracle-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/grim-pillars-spell-totem-oracle-build-guide",
+    "mainSkill": "Grim Pillars",
+    "supportGems": ["Spell Totem (мета-гем)", "Biting Frost I", "Living Lightning", "Thaumaturgic Flux (ур. 9+)"],
+    "ascendancyNodes": ["The Unseen Path", "The Lesser Harm", "Forced Outcome", "Unnamed Heartwood"],
+    "keyGear": [
+      "Скипетр с Purity of Fire/Ice/Lightning",
+      "Жезл и фокус с +уровнями скиллов",
+      "Solar Amulet",
+      "Darkness Enthralled — вариант на энергощит"
+    ],
+    "statPriority": [
+      "Сопротивления стихиям до капа (75%)",
+      "Хаос-резист до 75% (через Void Flux)",
+      "Максимум жизни на всех слотах",
+      "Скорость каста на кольцах",
+      "Урон спеллов/холода/тотемов",
+      "Скорость установки тотемов"
+    ],
+    "levelingSteps": [
+      "Акт 1: Volcano, Frost Bomb, Contagion",
+      "Ур. 6: Bone Cage",
+      "Ур. 14: Bonestorm",
+      "Ур. 22+: Grim Pillars (руны Aldur или трейд)",
+      "Эндгейм: Rakiata's Flow"
+    ],
+    "pros": ["Один из лучших стартеров лиги", "Высокий урон и скорость зачистки", "Безопасный стиль на дистанции"],
+    "cons": ["Тотемный геймплей нравится не всем", "Высокая нагрузка на видеокарту (визуал)"]
   },
   {
     "id": "oil-grenade-witchhunter",
@@ -101,7 +202,31 @@
     "patch": "0.5.1",
     "summary": "Гренадёр: забрасывает врагов масляными гранатами и поджигает их. Контроль зоны и стабильный урон по площади.",
     "keySkills": ["Oil Grenade", "Explosive Grenade", "Galvanic Shards"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/oil-grenade-witchhunter-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/oil-grenade-witchhunter-build-guide",
+    "mainSkill": "Oil Grenade",
+    "supportGems": ["Multishot I", "Armour Break II", "Armour Demolisher II", "Short Fuse II", "Rakiata's Flow"],
+    "ascendancyNodes": ["Zealous Inquisition", "Pitiless Killer", "Judge, Jury, and Executioner", "Obsessive Rituals", "Ceremonial Ablution"],
+    "keyGear": [
+      "Queen of the Forest — уник (масштабирование от уклонения)",
+      "Lavianga's Spirits — фласка",
+      "The Fall of the Axe — уник",
+      "Mageblood / Headhunter — топ-уники (опционально)"
+    ],
+    "statPriority": [
+      "Сопротивления стихиям 75%",
+      "Хаос-резист до 75%",
+      "Рейтинг уклонения (основное масштабирование)",
+      "Жизнь",
+      "Скорость передвижения",
+      "Скорость восстановления кулдаунов"
+    ],
+    "levelingSteps": [
+      "Акт 2: Gas Grenade",
+      "Акт 3 (ур. 9): Oil Grenade",
+      "Ур. 13: Cluster Grenade"
+    ],
+    "pros": ["Быстрый, дешёвый, простой прогресс", "Сильный ранний урон", "Очень танковый в эндгейме", "Хорош против Abyss/Breach"],
+    "cons": ["Невысокий потолок развития", "Завязан на кулдауны", "Требователен к шмоту", "Много кнопок в боях с боссами"]
   },
   {
     "id": "blasphemy-cursebot-lich",
