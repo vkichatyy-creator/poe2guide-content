@@ -8,7 +8,45 @@
     "patch": "0.5.1",
     "summary": "Молниеносный монах: обрушивает на врагов удары грозы с неба, сочетая высокую мобильность и мощный бёрст. Один из сильнейших билдов текущего патча.",
     "keySkills": ["Falling Thunder", "Tempest Bell", "Combat Frenzy"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/falling-thunder-martial-artist-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/falling-thunder-martial-artist-build-guide",
+    "mainSkill": "Falling Thunder",
+    "supportGems": ["Culmination II", "Nova Projectiles I", "Mantra of Destruction", "Pinpoint Critical", "Blindside"],
+    "ascendancyNodes": [
+      "Martial Master — основной эндгейм-узел восхождения",
+      "Hollow Focus Technique — берётся первым, для ранней игры",
+      "Way of the Stonefist — конвертация урона (под перчатки)",
+      "Runic Meridians — дополнительные сокеты под руны"
+    ],
+    "keyGear": [
+      "Sinister Quarterstaff — главное оружие: высокий физурон и шанс крита",
+      "Fists of Stone — перчатки с конвертацией урона",
+      "Ailith's Chimes — обязательны для эндгейм-связки",
+      "Prism of Belief — самоцвет: +уровни к Falling Thunder",
+      "Shavronne's Satchel, Heart of the Well — энергощит и утилити"
+    ],
+    "statPriority": [
+      "Шанс критического удара — цель близко к 100%",
+      "Энергощит — основной запас выживаемости",
+      "Рейтинг уклонения",
+      "Сопротивления стихиям — закрыть до капа",
+      "Урон холодом — для надёжной заморозки"
+    ],
+    "levelingSteps": [
+      "Акт 1: качаемся на Wind Blast / Wing Blast + Devour",
+      "Уровень ~16 (Акт 2): переход на Hollow Palm Technique",
+      "Уровень ~54: скрафтить квартерстаф и собирать боевую связку",
+      "Эндгейм: переспек на основную связку с Ailith's Chimes"
+    ],
+    "pros": [
+      "Отличное масштабирование урона",
+      "Взрывы Herald быстро зачищают пачки",
+      "Высокий урон по боссам"
+    ],
+    "cons": [
+      "Ближний бой — приходится быть в гуще врагов",
+      "Тяжёлый старт в Акте 1",
+      "Завязан на комбо-механику — порог входа выше"
+    ]
   },
   {
     "id": "twister-deadeye",
