@@ -1,0 +1,68 @@
+[
+  {
+    "id": "lightning-spear-deadeye",
+    "name": "Lightning Spear Deadeye",
+    "className": "Ranger",
+    "ascendancy": "Deadeye",
+    "tier": "S",
+    "patch": "0.2",
+    "summary": "Скоростной лучник-копейщик: метает молниевые копья с огромной частотой и зачищает экраны цепной молнией. Сильный лиг-стартер с понятной механикой.",
+    "keySkills": ["Lightning Spear", "Herald of Thunder", "Snipe"],
+    "guideUrl": "https://maxroll.gg/poe2/build-guides"
+  },
+  {
+    "id": "spark-stormweaver",
+    "name": "Spark Stormweaver",
+    "className": "Sorceress",
+    "ascendancy": "Stormweaver",
+    "tier": "S",
+    "patch": "0.2",
+    "summary": "Кастер на Spark: заполняет арену рикошетящими искрами, отлично работает по боссам и толпам. Требует аккуратной прокачки маны и выживаемости.",
+    "keySkills": ["Spark", "Arcane Surge", "Cast on Shock"],
+    "guideUrl": "https://maxroll.gg/poe2/build-guides"
+  },
+  {
+    "id": "gas-arrow-pathfinder",
+    "name": "Gas Arrow Pathfinder",
+    "className": "Ranger",
+    "ascendancy": "Pathfinder",
+    "tier": "A",
+    "patch": "0.2",
+    "summary": "Контролируемый ДоТ-билд: накладывает газовые облака и поджигает их, нанося урон по площади со временем. Безопасный стиль игры на дистанции.",
+    "keySkills": ["Gas Arrow", "Oil Grenade", "Plague Bearer"],
+    "guideUrl": "https://maxroll.gg/poe2/build-guides"
+  },
+  {
+    "id": "infernalist-minions",
+    "name": "Minion Infernalist",
+    "className": "Witch",
+    "ascendancy": "Infernalist",
+    "tier": "A",
+    "patch": "0.2",
+    "summary": "Армия миньонов делает основную работу: скелеты-стрелки и демоны танкуют и наносят урон, пока вы поддерживаете их баффами. Комфортный билд для новичков.",
+    "keySkills": ["Summon Skeletal Snipers", "Raise Zombie", "Flammability"],
+    "guideUrl": "https://maxroll.gg/poe2/build-guides"
+  },
+  {
+    "id": "titan-slam",
+    "name": "Slam Titan",
+    "className": "Warrior",
+    "ascendancy": "Titan",
+    "tier": "B",
+    "patch": "0.2",
+    "summary": "Тяжёлый воин-ближник: мощные ударные слэмы с большим радиусом и оглушением. Высокая выживаемость, но требует тайминга атак.",
+    "keySkills": ["Sunder", "Earthquake", "Hulking Form"],
+    "guideUrl": "https://maxroll.gg/poe2/build-guides"
+  },
+  {
+    "id": "invoker-tempest",
+    "name": "Tempest Flurry Invoker",
+    "className": "Monk",
+    "ascendancy": "Invoker",
+    "tier": "A",
+    "patch": "0.2",
+    "summary": "Быстрый монах: серии ударов с молниевым и холодным уроном, высокая мобильность и уклонение. Отличный клир, но хрупкий на старте.",
+    "keySkills": ["Tempest Flurry", "Killing Palm", "Wind Dancer"],
+    "guideUrl": "https://maxroll.gg/poe2/build-guides"
+  }
+]
