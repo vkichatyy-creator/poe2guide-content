@@ -416,7 +416,33 @@
     "patch": "0.5.1",
     "summary": "Холодные искры: рикошетящие снаряды заполняют арену, хорошо работают по боссам. Требует аккуратного билда маны.",
     "keySkills": ["Spark", "Cold Mastery", "Arcane Surge"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/cold-spark-pathfinder-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/cold-spark-pathfinder-build-guide",
+    "mainSkill": "Spark",
+    "supportGems": ["Projectile Acceleration III", "Prolonged Duration II", "Fork / Pierce II", "Pinpoint Critical", "Spell Cascade", "Unleash", "Cast on Critical"],
+    "ascendancyNodes": ["Relentless Pursuit", "Running Assault", "Path Seeker", "Traveller's Wisdom"],
+    "keyGear": [
+      "Call of the Brotherhood — кольцо-уник (конвертация в холод)",
+      "Maligaro's Virtuosity — перчатки",
+      "Astramentis — амулет",
+      "Grip of Kulemak — кольцо",
+      "Atziri's Splendour — броня"
+    ],
+    "statPriority": [
+      "Сопротивления до капа (75%)",
+      "+уровни спелл-гемов (главный урон)",
+      "% урона спеллов",
+      "Шанс и урон критического удара",
+      "Скорость каста",
+      "Длительность и скорость снарядов"
+    ],
+    "levelingSteps": [
+      "Ур. 1: доступен Spark",
+      "Кампания: Frost Bomb, Orb of Storms, Arctic Armour",
+      "Карты: переход на Cast on Critical Comet, Living Bomb",
+      "Эндгейм: своп на Chaos Inoculation"
+    ],
+    "pros": ["Отличная зачистка, мобильность и одиночный урон", "Иммунитет ко всем замедлениям", "Каст на ходу без штрафа скорости"],
+    "cons": ["Высокий расход маны на Cast on Critical", "Дорогой в максимальной версии", "Нужен Spirit под способности"]
   },
   {
     "id": "ice-strike-invoker",
@@ -427,7 +453,30 @@
     "patch": "0.5.1",
     "summary": "Монах ближнего боя: серии ледяных ударов с высокой скоростью атаки. Отличный клир, но хрупкий на старте. Гайд по прокачке.",
     "keySkills": ["Ice Strike", "Tempest Flurry", "Wind Dancer"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/tempest-flurry-invoker-leveling-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/tempest-flurry-invoker-leveling-guide",
+    "mainSkill": "Ice Strike (после Акта 1)",
+    "supportGems": ["Tempest Bell", "Charged Staff", "Shattering Palm", "Herald of Ice", "Combat Frenzy", "Elemental Conflux", "Wind Dancer"],
+    "ascendancyNodes": ["I am the Thunder", "and I Shall Rage", "Lead me through Grace", "Sunder my Enemies", "Meditate (защитный узел)"],
+    "keyGear": [
+      "Rakiata's Flow — эндгейм-оружие (огромный прирост урона)",
+      "Walker of the Wilds — уник",
+      "Quarterstaff — основное оружие прокачки",
+      "Гибридная броня (уклонение + энергощит)"
+    ],
+    "statPriority": [
+      "Скорость атаки",
+      "Урон стихий с атак (100%+)",
+      "Шанс критического удара",
+      "Максимум энергощита (до 10000 в эндгейме)",
+      "Сопротивления до капа (75%)",
+      "Уклонение 850+, вампиризм маны"
+    ],
+    "levelingSteps": [
+      "Акт 1: Glacial Cascade до Count Geonor → затем Ice Strike",
+      "Акты 2-4: Ice Strike + добор саппортов"
+    ],
+    "pros": ["Взрывы холода на весь экран (Shattering Palm + Herald of Ice)", "Огромный запас энергощита (~15000 с Meditate)", "Заморозка как защитный слой"],
+    "cons": ["Ближний бой тяжёл в ранних актах", "Скачки сложности (Акт 2 Dreadnought, Акт 4)", "Высокие требования Spirit (220 под полный сетап)"]
   },
   {
     "id": "boneshatter-titan",
@@ -438,7 +487,31 @@
     "patch": "0.5.1",
     "summary": "Сокрушительные удары: накапливает оглушение и взрывает его уроном по площади. Простой и мощный билд для прокачки.",
     "keySkills": ["Boneshatter", "Sunder", "Leap Slam"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/boneshatter-titan-leveling-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/boneshatter-titan-leveling-guide",
+    "mainSkill": "Boneshatter",
+    "supportGems": ["Brink (на Leap Slam)", "Overpower (на Leap Slam)", "Window of Opportunity (на Perfect Strike)"],
+    "ascendancyNodes": ["Stone Skin (ранний)", "Colossal Capacity", "Hulking Form", "Mysterious Lineage", "избегать Crushing Impacts (ломает прайминг оглушения)"],
+    "keyGear": [
+      "Двуручная булава — основное оружие",
+      "The Surrender — щит (выживаемость в картах)",
+      "Thrillsteel — утилити-уник",
+      "Defiance of Destiny — уник (опционально)"
+    ],
+    "statPriority": [
+      "Сопротивления до капа (75%)",
+      "Масштабирование физурона на оружии",
+      "% увеличенного физического урона",
+      "Скорость атаки",
+      "Вампиризм маны (кольца/перчатки)",
+      "Максимум жизни, блок до капа"
+    ],
+    "levelingSteps": [
+      "Акт 1: Rolling Slam, Mace Strike, Shockwave Totem",
+      "Акт 2+: добавляем Leap Slam, Boneshatter, Earthquake, Infernal Cry",
+      "Апгрейд скиллов примерно каждые 10 уровней"
+    ],
+    "pros": ["Взрывы на весь экран через синергию Boneshatter", "Сильный бёрст через тяжёлое оглушение", "Защита на блоке", "Не требует уников для работы"],
+    "cons": ["Нужно освоить отмену анимаций для плавности", "Одиночный урон зависит от ротации", "Менеджмент маны в ранней игре"]
   },
   {
     "id": "skeletal-sniper-shaman",
@@ -449,7 +522,32 @@
     "patch": "0.5.1",
     "summary": "Скелеты-снайперы: поднимает лучников-нежить, что расстреливают врагов издалека. Спокойный минионный стиль.",
     "keySkills": ["Summon Skeletal Snipers", "Totemic Boon", "Conductivity"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/skeletal-sniper-shaman-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/skeletal-sniper-shaman-build-guide",
+    "mainSkill": "Skeletal Sniper",
+    "supportGems": ["Multishot I", "Fire Attunement", "Minion Splash I", "Infernal Legion I", "Rage III", "Elemental Army", "Meat Shield II"],
+    "ascendancyNodes": ["Sacred Flow", "Reactive Growth", "Avatar of Evolution", "Furious Wellspring (опционально)"],
+    "keyGear": [
+      "Rattling / Stoic Sceptre — скипетр",
+      "Bones of Ullr — уник",
+      "Prism Guardian — щит (или фокус на энергощит)",
+      "Evergrasping Rings ×2",
+      "Tecrod's Revenge — уник"
+    ],
+    "statPriority": [
+      "Сопротивления до капа (75%)",
+      "Хаос-резист 60%+ (или Chaos Inoculation)",
+      "Энергощит 5-6k до CI, больше после",
+      "+уровни всех скиллов миньонов",
+      "+Spirit и % Spirit, шанс блока на щите"
+    ],
+    "levelingSteps": [
+      "Акт 1: форма зверя, Volcano, Contagion",
+      "Акт 2: Skeletal Sniper, Unearth, Frost Bomb",
+      "После King in the Mists: Raging Spirits",
+      "Акты 3-4: спектры, Skeletal Storm Mage, Vulnerability"
+    ],
+    "pros": ["Не требует обязательных уников", "Работает от старта кампании до эндгейма", "Разные типы миньонов под разные задачи", "Защита на энергощите и блоке"],
+    "cons": ["С Chaos Inoculation нельзя моды в обход энергощита", "Ранний менеджмент маны", "Завязан на Spirit для числа миньонов", "Сложно управлять разными миньонами"]
   },
   {
     "id": "permafrost-bolt-witchhunter",
@@ -460,6 +558,29 @@
     "patch": "0.5.1",
     "summary": "Морозные болты: замораживает цели арбалетными выстрелами, контролируя бой. Точный и безопасный стрелок.",
     "keySkills": ["Permafrost Bolts", "Galvanic Shards", "Cold Mastery"],
-    "guideUrl": "https://maxroll.gg/poe2/build-guides/permafrost-bolt-witchhunter-build-guide"
+    "guideUrl": "https://maxroll.gg/poe2/build-guides/permafrost-bolt-witchhunter-build-guide",
+    "mainSkill": "Permafrost Bolt (дробовик-заморозка)",
+    "supportGems": ["Close Combat II", "Charged Mark", "Shard Scavenger", "Fragmentation Rounds (доп. основной)", "Explosive Grenade (одиночный)"],
+    "ascendancyNodes": ["Pitiless Killer", "Judge, Jury, and Executioner", "Obsessive Rituals", "Ceremonial Ablution"],
+    "keyGear": [
+      "Арбалет — основное оружие",
+      "Hyrri's Ire — броня (×2 уклонение, если не били 4 сек)",
+      "Sine Aequo — уник (аптайм заморозки)",
+      "Yoke of Suffering — амулет (стихийные недуги)"
+    ],
+    "statPriority": [
+      "Сопротивления до капа (75%)",
+      "Рейтинг уклонения (основная защита)",
+      "+уровни снарядов",
+      "Скорость перезарядки арбалета",
+      "Скорость атаки/скиллов, отражение (Deflection)"
+    ],
+    "levelingSteps": [
+      "Ур. 1: доступны Permafrost Bolts (эндгейм-сетап сразу)",
+      "Добавляем Fragmentation Rounds для зачистки пачек",
+      "Explosive Grenade под одиночные цели и боссов"
+    ],
+    "pros": ["Дробовик-механика — высокая концентрация урона", "Цепная заморозка по пачкам", "Sorcery Ward защищает от всех входящих ударов", "Быстрая зачистка через Culling Strike"],
+    "cons": ["Нужна заморозка до эффективности Fragmentation Rounds", "Защита держится на высоком уклонении", "Нет ручной перезарядки между свопами скиллов"]
   }
 ]
