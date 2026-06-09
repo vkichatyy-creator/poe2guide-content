@@ -252,5 +252,120 @@
       "Стрелы раздваиваются (Fork), затем пробивают все цели",
       "+крит, вампиризм жизни и маны с физического урона"
     ]
+  },
+  {
+    "name": "The Taming",
+    "base": "Prismatic Ring",
+    "rarity": "Уник",
+    "levelReq": 42,
+    "howToGet": [
+      "Крафт: на тайном алтаре в карте Azmerian Ranges из Berek's Grip + Berek's Pass + Berek's Respite",
+      "+резисты стихий; +10–20% урона за каждый стихийный недуг на враге"
+    ]
+  },
+  {
+    "name": "Tyranny's Grip",
+    "base": "Ironhead Spear (копьё)",
+    "rarity": "Уник",
+    "levelReq": 5,
+    "howToGet": [
+      "+150–200% физурона; удары бьют по площади (Splash) и отбрасывают врагов",
+      "Нельзя использовать атаки-снаряды; даёт скилл Spear Throw"
+    ]
+  },
+  {
+    "name": "Alpha's Howl",
+    "base": "Armoured Cap (шлем)",
+    "rarity": "Уник",
+    "levelReq": 65,
+    "howToGet": [
+      "Требует 91 ловкости",
+      "+80–100% уклонения, +100 Spirit, +50–75% сопр. холоду",
+      "Удваивает радиус Presence (аур)",
+      "Runeforging: база + Verisium + Uhtred's Crest of the Chalice"
+    ]
+  },
+  {
+    "name": "Doedre's Damning",
+    "base": "Lazuli Ring",
+    "rarity": "Уник",
+    "levelReq": 1,
+    "howToGet": [
+      "Позволяет наложить дополнительное проклятие",
+      "+мана, +резисты стихий, мана за убийство врага"
+    ]
+  },
+  {
+    "name": "Atziri's Splendour",
+    "base": "Sacrificial Regalia (Vaal-броня)",
+    "rarity": "Уник",
+    "levelReq": 65,
+    "howToGet": [
+      "+1 к уровню всех корраптнутых гемов",
+      "В слоты можно вставлять только Soul Cores",
+      "+броня/уклонение/энергощит, +резисты стихий"
+    ]
+  },
+  {
+    "name": "Ventor's Gamble",
+    "base": "Gold Ring",
+    "rarity": "Уник",
+    "levelReq": 64,
+    "howToGet": [
+      "Лотерейное кольцо: поиск предметов и резисты роллятся как + так и −",
+      "+жизнь, +Spirit; ценны хорошие роллы"
+    ]
+  },
+  {
+    "name": "Sione's Temper",
+    "base": "Саппорт-гем (Lineage)",
+    "rarity": "Уник-гем",
+    "levelReq": 65,
+    "howToGet": [
+      "Это саппорт-гем. Дроп с уровня 52",
+      "Копит Wildshard при касте; шанс выстрелить 8 доп. снарядов по кругу за каждый Wildshard",
+      "Для проджектайл-спеллов (Spark, Arc, Frostbolt и др.)"
+    ]
+  },
+  {
+    "name": "Arbiter's Ignition",
+    "base": "Саппорт-гем (Lineage)",
+    "rarity": "Уник-гем",
+    "levelReq": 65,
+    "howToGet": [
+      "Это саппорт-гем для огненных спеллов. Дроп с уровня 52",
+      "Даёт Elemental Archon при поджоге врага (100%)"
+    ]
+  },
+  {
+    "name": "Sylvan's Effigy",
+    "base": "Stoic Sceptre (скипетр)",
+    "rarity": "Уник",
+    "levelReq": 62,
+    "howToGet": [
+      "Дроп: с босса The Bodach; есть на рынке (трейд)",
+      "+50–75% Spirit; союзники реген 50–100 жизни/сек",
+      "Можно держать любое число спутников разных типов"
+    ]
+  },
+  {
+    "name": "Vile Robe",
+    "base": "Body Armour (интеллект, энергощит)",
+    "rarity": "База",
+    "levelReq": 65,
+    "howToGet": [
+      "Это эндгейм-база брони на энергощит (на ней крафтят моды)",
+      "Runeforging: 390 Refined Verisium → +387 Runic Ward (но энергощит падает)"
+    ]
+  },
+  {
+    "name": "Defiance of Destiny",
+    "base": "Jade Amulet",
+    "rarity": "Уник",
+    "levelReq": 56,
+    "howToGet": [
+      "Восстанавливает 20–30% недостающей жизни перед получением удара",
+      "+жизнь, +сила/ловкость, реген маны"
+    ]
   }
 ]
