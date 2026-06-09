@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Queen of the Forest",
+    "base": "Smuggler Coat (броня уклонения)",
+    "rarity": "Уник",
+    "levelReq": 51,
+    "howToGet": [
+      "Требует 82 ловкости",
+      "Масштабирует скорость/защиту от рейтинга уклонения",
+      "Runeforging: база Smuggler Coat + 5000 Verisium + 1 Uhtred's Crest of the Chalice"
+    ]
+  },
+  {
+    "name": "The Brass Dome",
+    "base": "Champion Cuirass (тяжёлая броня)",
+    "rarity": "Уник",
+    "levelReq": 58,
+    "howToGet": [
+      "Требует 92 силы",
+      "Броня 2676–3122; не получает доп. урон от критических ударов",
+      "Минус к максимальным сопротивлениям стихиям",
+      "Runeforging: 39 Exceptional Verisium + 1 Uhtred's Crest of the Chalice"
+    ]
+  },
+  {
+    "name": "Call of the Brotherhood",
+    "base": "Topaz Ring",
+    "rarity": "Уник",
+    "levelReq": 32,
+    "howToGet": [
+      "Кольцо-уник",
+      "Конвертирует часть урона молнией в холод"
+    ]
+  },
+  {
+    "name": "Maligaro's Virtuosity",
+    "base": "Fine Bracers (перчатки)",
+    "rarity": "Уник",
+    "levelReq": 45,
+    "howToGet": [
+      "Требует 56 ловкости",
+      "+60–80% уклонения, +20–30% шанс крита, +5% скорость атаки",
+      "Бонус критического урона фиксирован 250%"
+    ]
+  },
+  {
+    "name": "Astramentis",
+    "base": "Stellar Amulet",
+    "rarity": "Уник",
+    "levelReq": 24,
+    "howToGet": [
+      "Амулет-уник",
+      "+ко всем характеристикам (крупный бонус)",
+      "−4 к физическому урону от атак"
+    ]
+  }
+]
