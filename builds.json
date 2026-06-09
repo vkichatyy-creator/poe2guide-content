@@ -46,6 +46,62 @@
       "Ближний бой — приходится быть в гуще врагов",
       "Тяжёлый старт в Акте 1",
       "Завязан на комбо-механику — порог входа выше"
+    ],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Что делать с 1 уровня до эндгейма. Старт — обычный монах с квартерстафом; к эндгейму переключаешься на основную связку.",
+        "points": [
+          "Акт 1 (ур. 1–11): основа — Quarterstaff Strike. Генерируй заряды силы через Wind Blast и Wing Blast, добавь Devour",
+          "Ур. 11: скрафти Gothic Quarterstaff, вставь Elemental или Iron Rune",
+          "Акт 1 (после 11): добавь Frost Bomb (снижает резисты). Комбо: Wind Blast → Wing Blast (стан + 3 заряда) → Rend → Falling Thunder",
+          "Акт 2 (ур. 16): перейди на Hollow Palm Technique, сними квартерстаф. Ищи перчатки/амулет с «+к уровням ближних скиллов»",
+          "Ур. 16+: для зарядов — Storm Wave и Siphoning Strike. Комбо: Storm Wave (шок) → Siphoning Strike (заряд) → Falling Thunder → повтор",
+          "Ур. 54 (после кампании): скрафти Waxing Quarterstaff, начинай переспек на связку Whirling Assault, добудь Ailith's Chimes",
+          "Эндгейм: Sinister Quarterstaff с критом + Whirling Assault + Culmination II + Ailith's Chimes"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорт-гемы.",
+        "points": [
+          "Основной: Falling Thunder",
+          "Саппорты: Culmination II, Nova Projectiles I, Mantra of Destruction, Pinpoint Critical, Blindside",
+          "Генерация зарядов в эндгейме: Whirling Assault",
+          "Бафф под боссов: Charged Staff"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Martial Artist и ключевые узлы.",
+        "points": [
+          "Martial Master — основной эндгейм-узел (пассивная генерация Combo Points)",
+          "Hollow Focus Technique — берётся первым, для ранней игры",
+          "Way of the Stonefist — конвертация урона (под перчатки)",
+          "Runic Meridians — дополнительные сокеты под руны"
+        ]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Что искать по слотам и приоритеты статов.",
+        "points": [
+          "Sinister Quarterstaff — главное оружие: физурон и шанс крита",
+          "Fists of Stone — перчатки с конвертацией урона",
+          "Ailith's Chimes — обязательны для эндгейм-связки",
+          "Prism of Belief — самоцвет: +уровни к Falling Thunder",
+          "Статы: крит ~100%, энергощит, уклонение, резисты до капа, урон холодом"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Как играть в бою.",
+        "points": [
+          "Зачистка карт: циклы Whirling Assault → Falling Thunder",
+          "Боссы: держи бафф Charged Staff, чередуй Whirling Assault и Falling Thunder",
+          "Следи за зарядами силы — без них Falling Thunder слабее",
+          "Заранее ставь Frost Bomb по жирным целям (снижает их резисты)"
+        ]
+      }
     ]
   },
   {
