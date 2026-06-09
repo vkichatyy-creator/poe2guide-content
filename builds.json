@@ -138,7 +138,56 @@
       "Акт 3+: добавляем Herald of Ice"
     ],
     "pros": ["Огромное покрытие по площади", "Приятные заморозки и раскол (shatter)", "Универсален: карты и боссы"],
-    "cons": ["Уязвим против боссов в ожидании кулдаунов", "Хрупкий на старте"]
+    "cons": ["Уязвим против боссов в ожидании кулдаунов", "Хрупкий на старте"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Стартуешь с Lightning Arrow, пока не доступен Twister, затем переходишь на копьё-смерчи.",
+        "points": [
+          "Акт 1 (ур. 1–10): качайся на Lightning Arrow + Lightning Rod, пока не открыт Twister",
+          "Заведи перса-Huntress «мула» ради Whirling Slash 1 ур., копья и баклера",
+          "Базовое комбо: парирование → Fangs of Frost (контрудар) для ледяной земли",
+          "Акт 2 (ур. 10+): Whirling Slash, Twister, Ice-Tipped Arrows, Barrage, Frost Nexus; убери Fangs of Frost",
+          "Переходи на два комплекта оружия (1-й — скорость атаки, 2-й — урон)",
+          "Акт 3+: добавь Freezing Mark, Herald of Ice, War Banner; позже Sniper's Mark + Eternal Mark",
+          "Поздно: копи 4+ заряда исступления перед связкой Salvo → Barrage → Twister"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорт-гемы.",
+        "points": [
+          "Основной: Twister",
+          "Саппорты: Ice-Tipped Arrows, Barrage, Salvo, Pinpoint Critical, Eternal Mark, Inexorable Critical II"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Deadeye.",
+        "points": ["Gathering Winds", "Avidity", "Thrilling Chase", "Called Shots"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Wake of Destruction — уник на урон",
+          "The Taming — кольцо-уник",
+          "Garukhan's Resolve — уник",
+          "Skysliver / Omen Sceptre — оружие",
+          "Slipstrike Vest — броня",
+          "Статы: резисты до капа, скорость атаки, площадь и скорость снарядов, уклонение 1200+"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Ротация в бою.",
+        "points": [
+          "Зачистка: Ice-Tipped Arrows → 3× Whirling Slash → Barrage → Twister",
+          "Поддерживай ледяную землю и заморозки для раскола (shatter)",
+          "По боссам — копи заряды исступления под Salvo-связку"
+        ]
+      }
+    ]
   },
   {
     "id": "arc-stormweaver",
@@ -175,7 +224,58 @@
       "До Archmage — Arctic Armour / Convalescence"
     ],
     "pros": ["Сильная зачистка по площади", "Большой запас энергощита", "Быстрый старт лиги (кампания ~4 ч)"],
-    "cons": ["Стиль «не дай себя ударить» — мало права на ошибку"]
+    "cons": ["Стиль «не дай себя ударить» — мало права на ошибку"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Старт на Spark, переход на Arc, в эндгейме — Archmage и Chaos Inoculation.",
+        "points": [
+          "Ур. 1–5: зачистка через Spark",
+          "Ур. 6+: Lightning Bolt + Unleash; перед пачками — Orb of Storms",
+          "Ур. 14+: основной урон — Arc + Orb of Storms",
+          "Ур. 22+: добавь Mana Tempest для пачек",
+          "Ур. 25+: Chiming Staff во 2-й комплект оружия + Sigil of Power",
+          "Восхождение: Constant Gale (Trial of Sekhemas) → Strike Twice (Trial of Chaos, ур. 40+)",
+          "Карты: набери 6000+ энергощита → возьми Chaos Inoculation (иммун к хаосу/кровотечению)",
+          "Эндгейм: Archmage (нужно +60 Spirit), затем Heavy Snows / Refracted Infusion"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорты.",
+        "points": [
+          "Основной: Arc",
+          "Саппорты: Zenith II, связка до 6 линков (Jeweller's Orb)",
+          "Эндгейм: Archmage (+60 Spirit), Arbiter's Ignition + Living Bomb по боссам"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Stormweaver.",
+        "points": ["Constant Gale", "Strike Twice", "Storm's Recollection", "Heavy Snows", "опц.: Refracted Infusion / Force of Will"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Voltaic Staff — стартовый посох",
+          "Chiming Staff — 2-й комплект оружия (ур. 25+)",
+          "Sione's Temper — скорость зачистки",
+          "Arbiter's Ignition — одиночные цели",
+          "Статы: энергощит 6000+, +60 Spirit, резисты до капа, +уровни спеллов, скорость каста"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Безопасный кастер на дистанции.",
+        "points": [
+          "Перед пачками ставь Orb of Storms, затем Arc",
+          "Mana Tempest для плотных групп",
+          "Держи дистанцию — стиль «не дай себя ударить»",
+          "Следи за маной — Archmage прожорлив"
+        ]
+      }
+    ]
   },
   {
     "id": "companion-spirit-walker",
@@ -210,7 +310,57 @@
       "После Акта 3: Explosive / Flash Grenade (с Multishot)"
     ],
     "pros": ["Простой пассивный стиль игры", "Не требует уников для работы", "Урон делают миньоны"],
-    "cons": ["После нерфа меньше митигации", "Нужно приручать конкретных зверей", "Сложный менеджмент резерва с несколькими спутниками"]
+    "cons": ["После нерфа меньше митигации", "Нужно приручать конкретных зверей", "Сложный менеджмент резерва с несколькими спутниками"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Стартуешь копьём и гранатами, в Акте 3 приручаешь зверя-спутника, дальше урон делают миньоны.",
+        "points": [
+          "Акты 1–2: Spear Stab, Whirling Assault; добавь Explosive и Flash Grenade",
+          "Возьми 2 Uncut Skill Gem в Clearfell (у Renly и в Mysterious Campsite)",
+          "Акт 3 (Jungle Ruins): приручи Mighty Silverback через Tame Beast, вставь гем Companion",
+          "Энгрейв: Pain Offering, Sniper's Mark, Enfeeble; Multishot I на гранаты",
+          "Своп оружия: скипетр + щит (под миньонов)",
+          "Приручи 2-го спутника (Hunting Grounds) с аурой; приоритет аур: Haste > Phys Damage > энергощит",
+          "Восхождение по порядку: The Natural Order → The Catha's Balance → Idolatry",
+          "Эндгейм: Tyranny's Grip или Trenchtimbre как оружие, Sylvan's Effigy под несколько спутников"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Спутник и его саппорты.",
+        "points": [
+          "Основной: Companion (зверь Mighty Silverfist)",
+          "Саппорты: Rapid Attacks II, Rage III, Hulking Minions, Muster, Loyalty"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Spirit Walker.",
+        "points": ["The Natural Order", "The Catha's Balance", "Idolatry", "Crystalline Flesh", "Relentless Fallen", "Splintering Force"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Tyranny's Grip — улучшается 2× на Verisium Anvil",
+          "Sylvan's Effigy — уник",
+          "Скипетр и шлем с +уровнями миньонов",
+          "Щит с резистами и жизнью",
+          "Статы: резисты 75%, максимум жизни, +уровни миньонов, скорость передвижения"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Полу-минионный стиль.",
+        "points": [
+          "Спутник танкует и наносит урон — ты поддерживаешь",
+          "Накладывай Pain Offering и проклятия на врагов",
+          "Следи за резервом Spirit при нескольких спутниках",
+          "Управляй приоритетом аур под ситуацию"
+        ]
+      }
+    ]
   },
   {
     "id": "grim-pillars-spell-totem-oracle",
@@ -247,7 +397,59 @@
       "Эндгейм: Rakiata's Flow"
     ],
     "pros": ["Один из лучших стартеров лиги", "Высокий урон и скорость зачистки", "Безопасный стиль на дистанции"],
-    "cons": ["Тотемный геймплей нравится не всем", "Высокая нагрузка на видеокарту (визуал)"]
+    "cons": ["Тотемный геймплей нравится не всем", "Высокая нагрузка на видеокарту (визуал)"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Стартуешь обычными спеллами, к Акту 2–3 переходишь на тотемы с Grim Pillars.",
+        "points": [
+          "Акт 1 (ур. 1–13): Contagion, Volcano, Frost Bomb; ур. 6 — Bone Cage по боссам; собери 30 Spirit",
+          "Ур. 14: Bonestorm (убери Volcano/Frost Bomb/Bone Cage), комбо с Thunderstorm + Living Lightning",
+          "Ур. 22: фарми механику Runes of Aldur или трейди ради гема Grim Pillars",
+          "Ур. 22–28: основной урон — Spell Totem + Grim Pillars; добавь Entangle (1 ур.) + Biting Frost I",
+          "Ур. 29: Thrashing Vines для зачистки; к концу Акта 3 — 60 Spirit",
+          "Восхождение: The Unseen Path → The Lesser Harm → Forced Outcome → Unnamed Heartwood (3-й тотем)",
+          "Улучшай Grim Pillars через Thaumaturgic Flux; к интерлюдиям — 100 Spirit",
+          "Эндгейм: 4–6 тотемов через Spirit; опц. крит-переспек (ур. 80+) или Chaos Inoculation"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Тотемы и саппорты.",
+        "points": [
+          "Основной: Grim Pillars",
+          "Мета-гем: Spell Totem",
+          "Саппорты: Biting Frost I, Living Lightning, Thaumaturgic Flux (ур. 9+)",
+          "Ауры: Mysticism II, Vitality II, Clarity II"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Oracle.",
+        "points": ["The Unseen Path", "The Lesser Harm", "Forced Outcome", "Unnamed Heartwood"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Скипетр с Purity of Fire/Ice/Lightning",
+          "Жезл и фокус с +уровнями скиллов",
+          "Solar Amulet",
+          "Darkness Enthralled — вариант на энергощит",
+          "Статы: резисты до капа, хаос-резист 75%, максимум жизни, скорость установки тотемов"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Безопасная игра на дистанции.",
+        "points": [
+          "Ставь Spell Totem — они сами кастуют Grim Pillars",
+          "Entangle триггерит взрывы Biting Frost по ледяным кристаллам",
+          "Thunderstorm + Living Lightning для снятия impale",
+          "Thrashing Vines для дополнительного урона"
+        ]
+      }
+    ]
   },
   {
     "id": "oil-grenade-witchhunter",
@@ -282,7 +484,56 @@
       "Ур. 13: Cluster Grenade"
     ],
     "pros": ["Быстрый, дешёвый, простой прогресс", "Сильный ранний урон", "Очень танковый в эндгейме", "Хорош против Abyss/Breach"],
-    "cons": ["Невысокий потолок развития", "Завязан на кулдауны", "Требователен к шмоту", "Много кнопок в боях с боссами"]
+    "cons": ["Невысокий потолок развития", "Завязан на кулдауны", "Требователен к шмоту", "Много кнопок в боях с боссами"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Стартуешь Explosive Grenade, к Акту 3 переходишь на Oil Grenade, в эндгейме — уклонение и Queen of the Forest.",
+        "points": [
+          "Акт 1 (ур. 1–12): основной урон — Explosive Grenade; обновляй арбалеты, надень Iron Rings",
+          "Акт 2 (ур. 12–20): добавь Gas Grenade (до открытия Oil Grenade); восхождение — Zealous Inquisition",
+          "Акт 3 (ур. 20–28): переходи на Oil Grenade; добавь Cluster Grenade, War Banner, Flash Grenade, Frost Bomb",
+          "Восхождение: Pitiless Killer; первый Greater Jeweller's Orb — на Explosive Grenade",
+          "Ур. 28–50: Armour Break II + Armour Demolisher II на Flash Grenade; Herald of Ash",
+          "Эндгейм (ур. 50+): надень Queen of the Forest (ур. 51+), перейди на чистое уклонение",
+          "Восхождение: Judge, Jury, and Executioner → Obsessive Rituals + Ceremonial Ablution; Rakiata's Flow на Explosive Grenade"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорты.",
+        "points": [
+          "Основной: Oil Grenade",
+          "Саппорты: Multishot I, Armour Break II, Armour Demolisher II, Short Fuse II, Rakiata's Flow"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Witchhunter.",
+        "points": ["Zealous Inquisition", "Pitiless Killer", "Judge, Jury, and Executioner", "Obsessive Rituals", "Ceremonial Ablution"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Queen of the Forest — уник (масштабирование от уклонения)",
+          "Lavianga's Spirits — фласка",
+          "The Fall of the Axe — уник",
+          "Mageblood / Headhunter — топ-уники (опционально)",
+          "Статы: резисты 75%, хаос-резист 75%, рейтинг уклонения, жизнь, скорость восстановления кулдаунов"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Контроль зоны гранатами.",
+        "points": [
+          "Зачистка: спамь Oil Grenade; Explosive Grenade по редким; Flash Grenade — отступление",
+          "Боссы: War Banner → Rapid Shot (набор heat) → Explosive Grenade (расход heat) → Cluster Grenade",
+          "Следи за кулдаунами гранат",
+          "Заранее снижай броню целей через Armour Break"
+        ]
+      }
+    ]
   },
   {
     "id": "blasphemy-cursebot-lich",
@@ -315,7 +566,57 @@
       "До этого качаемся обычным сетапом лича"
     ],
     "pros": ["Билд «0 кнопок»", "Бесконечное наложение проклятий", "Множитель урона для группы (2×+)"],
-    "cons": ["Раскрывается в групповой игре", "Сложности с выживаемостью", "Эндгейм-версия с порога ур. 70+"]
+    "cons": ["Раскрывается в групповой игре", "Сложности с выживаемостью", "Эндгейм-версия с порога ур. 70+"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Это эндгейм-саппорт для группы — соло им не прокачаться. Поднимаешь персонажа обычным сетапом лича, а на эту сборку переходишь после кампании.",
+        "points": [
+          "Минимальный уровень: 68+, кампания пройдена",
+          "Восхождение Lich (Trials of Sekhemas + Trial of Chaos)",
+          "До перехода — обычный лич-сетап для соло-прокачки",
+          "Перед стартом нужно: скипетр с бонусом урона союзникам, Alpha's Howl, Vile Robe",
+          "Возьми Chaos Inoculation на дереве",
+          "Набери 400+ Spirit со шмота и квестов"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Проклятия-ауры.",
+        "points": [
+          "Основной: Blasphemy (превращает проклятия в ауры)",
+          "Проклятия: Enfeeble, Vulnerability, Despair, Temporal Chains",
+          "Ключевой гем: Incessant Cacophony (проклятия держатся постоянно)"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Lich.",
+        "points": ["Necromantic Conduit", "Blackened Heart", "Rupture the Soul", "Incessant Cacophony"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Alpha's Howl — шлем",
+          "The Prisoner's Manacles — перчатки",
+          "Vile Robe — броня",
+          "Doedre's Damning / Grip of Kulemak — кольца",
+          "Darkness Enthroned — пояс",
+          "Статы: энергощит (максимум), интеллект, мана, Chaos Inoculation"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Билд «0 кнопок» для группы.",
+        "points": [
+          "Стой рядом с группой — ауры-проклятия работают радиусом",
+          "Incessant Cacophony держит проклятия на врагах постоянно",
+          "Раскрывается в группе, не в соло",
+          "Следи за выживаемостью — собственного урона почти нет"
+        ]
+      }
+    ]
   },
   {
     "id": "whirling-assault-titan",
@@ -350,7 +651,55 @@
       "Эндгейм: полный сетап Whirling Assault"
     ],
     "pros": ["Зачистка экрана по площади", "Высокая выживаемость через броню", "Комфортный маппинг, тянет весь контент"],
-    "cons": ["Требует конкретные уники (The Brass Dome обязателен)", "Одиночный урон зависит от ротации", "Нужно следить за требованиями характеристик"]
+    "cons": ["Требует конкретные уники (The Brass Dome обязателен)", "Одиночный урон зависит от ротации", "Нужно следить за требованиями характеристик"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Это эндгейм-сборка (с ур. 68, после кампании). Прокачиваешься обычным ближним боем воина, а на эту связку переходишь в эндгейме.",
+        "points": [
+          "Минимальный уровень: 68+, кампания пройдена",
+          "Левелинг — стандартный warrior melee (по отдельному лиг-старт гайду)",
+          "Обязательный уник для перехода: The Brass Dome",
+          "Восхождение: Hulking Form, Stone Skin + Crushing Impacts или Mysterious Lineage",
+          "Эндгейм-связка: Whirling Assault + Ancestral Call II, Channelled Heritage, Atalui's Bloodletting, Garukhan's Resolve, Uul-Netol's Embrace",
+          "Доп. скиллы: Charged Staff, Tempest Bell, Herald of Ash, Berserk"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорты.",
+        "points": [
+          "Основной: Whirling Assault",
+          "Саппорты: Ancestral Call II, Channelled Heritage, Atalui's Bloodletting, Garukhan's Resolve, Uul-Netol's Embrace",
+          "Доп.: Charged Staff, Tempest Bell, Herald of Ash"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Titan.",
+        "points": ["Hulking Form", "Stone Skin", "Crushing Impacts / Mysterious Lineage"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "The Brass Dome — обязательный уник (броня)",
+          "Ryslatha's Coil — пояс-уник",
+          "Skullcrusher Quarterstaff — оружие",
+          "Статы: резисты 74-75%, максимум жизни, броня 600%+, крит, площадь, вампиризм физурона"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Танковый ближний бой.",
+        "points": [
+          "Зачистка: циклы Whirling Assault — урон по площади",
+          "Боссы: держи бафф Charged Staff, чередуй ротацию",
+          "Выживаемость через броню (Brass Dome)",
+          "Следи за требованиями характеристик"
+        ]
+      }
+    ]
   },
   {
     "id": "ice-shot-deadeye",
@@ -388,7 +737,56 @@
       "Stormcaller Arrow — пока не доступен Snipe"
     ],
     "pros": ["Огромный потенциал заморозки", "Сильная зачистка ледяными взрывами", "Высокий одиночный урон через Snipe по заморозке"],
-    "cons": ["Защита держится на заморозке — против иммунных к заморозке сложнее", "Хрупкий до набора шмота"]
+    "cons": ["Защита держится на заморозке — против иммунных к заморозке сложнее", "Хрупкий до набора шмота"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Стартуешь обычными стрелковыми скиллами, к ур. 31 переходишь на Ice Shot.",
+        "points": [
+          "Ур. 1–14: Frost Bomb, Escape Shot, Lightning Arrow, Bow Shot. Escape Shot — заморозка и отрыв дистанции",
+          "Ур. 14: добавь Freezing Salvo. По боссам: Escape Shot + Freezing Salvo, Snipe по заморозке",
+          "Ур. 31: переход на Ice Shot (большой буст зачистки), добавь 20% качества как можно раньше",
+          "Кампания: приоритет жизни и резистов; обновляй лук каждые 5–10 уровней (физ/холод урон)",
+          "Восхождение: Gathering Winds → Called Shots → Bullseye → Point Blank",
+          "Эндгейм: 2 комплекта оружия — основной Ice Shot, второй Snipe по одиночным; максимум уклонения"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и связки.",
+        "points": [
+          "Основной: Ice Shot",
+          "Snipe — добивание замороженных целей",
+          "Herald of Ice — цепные взрывы льда"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Deadeye.",
+        "points": ["Gathering Winds", "Called Shots", "Bullseye", "Point Blank"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Hyrri's Ire — броня-уник",
+          "Cadiro's Gambit — колчан",
+          "Slivertongue — уник-лук",
+          "Rakiata's Flow / Garukhan's Resolve — уники",
+          "Статы: резисты до капа, жизнь, уклонение, скорость атаки, крит, +уровни снарядов"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Ледяной стрелок.",
+        "points": [
+          "Зачистка: Ice Shot взрывается осколками льда, замораживает пачки",
+          "Боссы: своп на Snipe по заморозке для бёрста",
+          "Защита держится на заморозке",
+          "Колчан — важный источник урона, ищи оффенс-статы"
+        ]
+      }
+    ]
   },
   {
     "id": "minion-army-infernalist",
@@ -425,7 +823,57 @@
       "Акт 4+: спектры вместо поджигателей"
     ],
     "pros": ["Урон миньонов масштабируется из многих источников", "Не требует обязательных уников", "Работает от кампании до эндгейма", "Защита: энергощит + блок"],
-    "cons": ["Vaal Guard-спектр может просаживать производительность", "Ранний менеджмент маны", "Лимит Spirit на число миньонов", "Уязвимость к хаос-урону"]
+    "cons": ["Vaal Guard-спектр может просаживать производительность", "Ранний менеджмент маны", "Лимит Spirit на число миньонов", "Уязвимость к хаос-урону"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Армия миньонов работает с Акта 1: скелеты-снайперы + Volcano, затем добавляешь спектры и реверов.",
+        "points": [
+          "Акт 1: первым делом Skeletal Sniper + Volcano, саппорт Multishot I; Contagion для пачек",
+          "Ротация: Volcano → команда снайперам → Frost Bomb → Contagion → Unearth по трупам",
+          "Акт 3 (после King in the Mists): Raging Spirits (+ Last Gasp, Fire Attunement, Minion Splash I), держи 10 духов по боссам",
+          "Акт 3 (Utzaal): Bind Spectre, нанимай Vaal Guard (50 Spirit) — может просаживать fps",
+          "Акт 4: квест +30% макс. энергощита; трать Spirit на 5–6 Vaal Guard",
+          "Ранний эндгейм: Tecrod's Revenge → 4–8 Skeletal Reavers; Elemental Weakness → Despair",
+          "Поздний эндгейм: Skeletal Frost Mage (−40% урона по миньонам), Minion Mastery своп по пинаклам"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Миньоны и саппорты.",
+        "points": [
+          "Основной: армия миньонов (Skeletal Snipers + Volcano)",
+          "Саппорты: Minion Splash I, Meat Shield II, Magnified Area II, Elemental Army, Pain Offering, Arcane Surge"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Infernalist.",
+        "points": ["Loyal Hellhound", "Altered Flesh", "Beidat's Will", "Beidat's Hand (или 2× жизнь, если <1400 HP)"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Bones of Ullr — уник",
+          "Trenchtimbre — уник",
+          "Rattling / Stoic Sceptre — скипетр",
+          "Prism Guardian — щит",
+          "Ventor's Gamble — кольцо",
+          "Статы: резисты до капа, хаос-резист 60%+, +уровни миньонов, +Spirit, жизнь 1400+, блок"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Миньоны делают всю работу.",
+        "points": [
+          "Ты баффаешь и проклинаешь, миньоны бьют",
+          "Ротация: Pain Offering → Despair → команды миньонам",
+          "Следи за лимитом Spirit (число миньонов)",
+          "Vaal Guard мощны, но могут лагать"
+        ]
+      }
+    ]
   },
   {
     "id": "bleed-rake-amazon",
@@ -461,7 +909,57 @@
       "Ранние карты: Rake, Disengage, Blood Hunt, Herald of Blood"
     ],
     "pros": ["Высокий урон через масштабирование кровотечения", "Отличная мобильность (Rake, Disengage)", "Зачистка на дистанции (Spearfield)", "Сильный одиночный бёрст"],
-    "cons": ["Уязвимость к оглушению", "Сложные требования характеристик", "RNG защиты на уклонении"]
+    "cons": ["Уязвимость к оглушению", "Сложные требования характеристик", "RNG защиты на уклонении"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Стартуешь Explosive Spear, быстро берёшь Rake и Disengage, к ур. 14 — Spearfield.",
+        "points": [
+          "Акт 1 (ур. 1): Explosive Spear (+ Elemental Armament I, Magnified Area I); Spear Stab по одиночным",
+          "Рано: добавь Disengage — базовая мобильность на всю игру (комбо с парированием для зарядов исступления)",
+          "Скоро: основной одиночный — Rake; в паре со Spearfield для зачистки",
+          "Ур. 14: убери Explosive Spear, добавь Spearfield (дальний, накладывает дебаффы, копит Rage)",
+          "Мид: Blood Hunt (добивание по кровотечению) + Bloodhound's Mark (метка + тяжёлый стан)",
+          "Карты: Wind Dancer (уклонение), Herald of Blood + Poison I/III под Bursting Plague",
+          "Восхождение: Critical Strike → Predatory Instinct → Penetrate → In for the Kill / Azmeri Brew"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорты.",
+        "points": [
+          "Основной: Rake",
+          "Саппорты: Poison III, Bursting Plague, Single Out, Rupture, Greater Vision Rune"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Amazon.",
+        "points": ["Critical Strike", "Predatory Instinct", "Penetrate", "In for the Kill / Azmeri Brew"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Horns of Bynden — уник",
+          "Venopuncture — уник (ур. 36+)",
+          "Lycosidae — щит-уник",
+          "Ryslatha's Coil — пояс",
+          "Cloak of Flame / Reverie — броня",
+          "Статы: резисты до капа, физурон, скорость атаки, крит, сила кровотечения, точность 150+"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Кровотечение + мобильность.",
+        "points": [
+          "Зачистка на дистанции через Spearfield",
+          "Одиночный — Rake, кровотечение тикает со временем",
+          "Disengage для мобильности и ухода от ударов",
+          "Следи за оглушением — уязвимость билда"
+        ]
+      }
+    ]
   },
   {
     "id": "cold-spark-pathfinder",
@@ -498,7 +996,55 @@
       "Эндгейм: своп на Chaos Inoculation"
     ],
     "pros": ["Отличная зачистка, мобильность и одиночный урон", "Иммунитет ко всем замедлениям", "Каст на ходу без штрафа скорости"],
-    "cons": ["Высокий расход маны на Cast on Critical", "Дорогой в максимальной версии", "Нужен Spirit под способности"]
+    "cons": ["Высокий расход маны на Cast on Critical", "Дорогой в максимальной версии", "Нужен Spirit под способности"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Spark доступен с 1 уровня — играешь им всю кампанию, в эндгейме добавляешь Cast on Critical и Chaos Inoculation.",
+        "points": [
+          "Ур. 1: Spark (+ Projectile Acceleration III, Prolonged Duration II, Fork/Pierce II); Frost Bomb и Orb of Storms в поддержку; Arctic Armour",
+          "Ранний-средний: добавь Siphon Elements и Mana Remnants; Call of the Brotherhood конвертит молнию в холод",
+          "Восхождение (со шмотом): Relentless Pursuit → Running Assault; (без шмота): Path Seeker → Traveller's Wisdom",
+          "Вход в карты: 2 комплекта оружия (Spark на 1-м, Frost Bomb на 2-м); Pinpoint Critical к Spark; Maligaro's Virtuosity",
+          "Эндгейм: Cast on Critical Comet + Living Bomb; Elemental Weakness (Spell Cascade); своп на Chaos Inoculation"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорты.",
+        "points": [
+          "Основной: Spark",
+          "Саппорты: Projectile Acceleration III, Prolonged Duration II, Fork / Pierce II, Pinpoint Critical, Spell Cascade, Unleash, Cast on Critical"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Pathfinder.",
+        "points": ["Relentless Pursuit", "Running Assault", "Path Seeker", "Traveller's Wisdom"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Call of the Brotherhood — кольцо-уник (конвертация в холод)",
+          "Maligaro's Virtuosity — перчатки",
+          "Astramentis — амулет",
+          "Grip of Kulemak — кольцо",
+          "Atziri's Splendour — броня",
+          "Статы: резисты до капа, +уровни спеллов, % урона спеллов, крит, скорость каста"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Подвижный кастер.",
+        "points": [
+          "Зачистка: Spark заполняет арену рикошетами",
+          "Боссы: преднакопи Frost Bomb → своп на Icestorm → проклятие → спам Spark",
+          "Иммунитет ко всем замедлениям",
+          "Следи за маной — Cast on Critical прожорлив"
+        ]
+      }
+    ]
   },
   {
     "id": "ice-strike-invoker",
@@ -532,7 +1078,55 @@
       "Акты 2-4: Ice Strike + добор саппортов"
     ],
     "pros": ["Взрывы холода на весь экран (Shattering Palm + Herald of Ice)", "Огромный запас энергощита (~15000 с Meditate)", "Заморозка как защитный слой"],
-    "cons": ["Ближний бой тяжёл в ранних актах", "Скачки сложности (Акт 2 Dreadnought, Акт 4)", "Высокие требования Spirit (220 под полный сетап)"]
+    "cons": ["Ближний бой тяжёл в ранних актах", "Скачки сложности (Акт 2 Dreadnought, Акт 4)", "Высокие требования Spirit (220 под полный сетап)"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Акт 1 качаешься на Glacial Cascade, после Count Geonor переходишь на Ice Strike.",
+        "points": [
+          "Акт 1 (до Count Geonor): Glacial Cascade. Набери 2+ Uncut Support Gem до финального босса акта",
+          "После Geonor: переход на Ice Strike",
+          "Акты 2–4: Ice Strike + Herald of Ice; Tempest Bell по боссам; держи бафф Charged Staff",
+          "Усиление зачистки: Shattering Palm",
+          "Акт 4+: Hand of Chayula (открывает Charge Regulation); нужно 220 Spirit — апай броню",
+          "Эндгейм: Sunder my Enemies → Rakiata's Flow; своп на Chaos Inoculation; цель — 10000+ энергощита + Meditate"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорты.",
+        "points": [
+          "Основной: Ice Strike (после Акта 1)",
+          "Саппорты: Tempest Bell, Charged Staff, Shattering Palm, Herald of Ice, Combat Frenzy, Elemental Conflux, Wind Dancer"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Invoker.",
+        "points": ["I am the Thunder", "and I Shall Rage", "Lead me through Grace", "Sunder my Enemies", "Meditate (защитный узел)"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Rakiata's Flow — эндгейм-оружие (огромный прирост урона)",
+          "Walker of the Wilds — уник",
+          "Quarterstaff — основное оружие прокачки",
+          "Гибридная броня (уклонение + энергощит)",
+          "Статы: скорость атаки, урон стихий с атак, крит, ЭЩ до 10000, резисты до капа"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Быстрый ближний бой холодом.",
+        "points": [
+          "Зачистка: взрывы холода Shattering Palm + Herald of Ice",
+          "Боссы: 4 combo points → Tempest Bell → ещё 4 → 2-й Tempest Bell → Ice Strike",
+          "Огромный запас энергощита (с Meditate ~15000)",
+          "Заморозка как защитный слой"
+        ]
+      }
+    ]
   },
   {
     "id": "boneshatter-titan",
@@ -567,7 +1161,55 @@
       "Апгрейд скиллов примерно каждые 10 уровней"
     ],
     "pros": ["Взрывы на весь экран через синергию Boneshatter", "Сильный бёрст через тяжёлое оглушение", "Защита на блоке", "Не требует уников для работы"],
-    "cons": ["Нужно освоить отмену анимаций для плавности", "Одиночный урон зависит от ротации", "Менеджмент маны в ранней игре"]
+    "cons": ["Нужно освоить отмену анимаций для плавности", "Одиночный урон зависит от ротации", "Менеджмент маны в ранней игре"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Прокачка ближним боем с двуручной булавой: прайми оглушение и взрывай его через Boneshatter.",
+        "points": [
+          "Акт 1: Rolling Slam, Mace Strike, Shockwave Totem (двуручная булава). Прайми оглушение Rolling Slam перед Boneshatter",
+          "Акт 2–3: Leap Slam (вместо Rolling Slam), Boneshatter, Earthquake, Infernal Cry, Seismic Cry; добавь щит",
+          "Обновляй булаву каждые ~10 уровней",
+          "Восхождение: Stone Skin → (переспек) Colossal Capacity + Hulking Form → Mysterious Lineage",
+          "Акт 4+: Perfect Strike (одиночный), Earthshatter, Hammer of the Gods",
+          "Эндгейм: 2 двуручные булавы под Hammer of the Gods; Brink, Overpower на Leap Slam; блок до капа со щитом"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорты.",
+        "points": [
+          "Основной: Boneshatter",
+          "Саппорты: Brink (на Leap Slam), Overpower (на Leap Slam), Window of Opportunity (на Perfect Strike)"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Titan.",
+        "points": ["Stone Skin (ранний)", "Colossal Capacity", "Hulking Form", "Mysterious Lineage", "избегать Crushing Impacts (ломает прайминг оглушения)"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Двуручная булава — основное оружие",
+          "The Surrender — щит (выживаемость в картах)",
+          "Thrillsteel — утилити-уник",
+          "Defiance of Destiny — уник (опционально)",
+          "Статы: резисты до капа, физурон, скорость атаки, вампиризм маны, жизнь, блок до капа"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Сокрушительный ближний бой.",
+        "points": [
+          "Зачистка: цикл Leap Slam → Dodge Roll → Boneshatter (с отменой анимаций)",
+          "Боссы: преднакопи Earthshatter, взрывай Warcries, тяжёлый стан, ставь Hammer of the Gods",
+          "Защита на блоке",
+          "Освой отмену анимаций для плавности"
+        ]
+      }
+    ]
   },
   {
     "id": "skeletal-sniper-shaman",
@@ -603,7 +1245,56 @@
       "Акты 3-4: спектры, Skeletal Storm Mage, Vulnerability"
     ],
     "pros": ["Не требует обязательных уников", "Работает от старта кампании до эндгейма", "Разные типы миньонов под разные задачи", "Защита на энергощите и блоке"],
-    "cons": ["С Chaos Inoculation нельзя моды в обход энергощита", "Ранний менеджмент маны", "Завязан на Spirit для числа миньонов", "Сложно управлять разными миньонами"]
+    "cons": ["С Chaos Inoculation нельзя моды в обход энергощита", "Ранний менеджмент маны", "Завязан на Spirit для числа миньонов", "Сложно управлять разными миньонами"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "С 1 уровня форма зверя + Volcano, затем скелеты-снайперы и духи; к эндгейму — спектры.",
+        "points": [
+          "Ур. 1–2: форма медведя/волка + Volcano; возьми Rattling Sceptre у Una",
+          "Акт 1: Contagion (+ Unleash), Skeletal Sniper, Unearth (+ Multishot I, Fire Attunement), Frost Bomb",
+          "Акт 1–2 (после King in the Mists): Raging Spirits (Volcano их призывает), Last Gasp, Minion Splash I",
+          "Акты 3–4: Vulnerability (вместо Elemental Weakness); Skeletal Storm Mage, Brute, Reaver; убери Volcano/Frost Bomb",
+          "После кампании (~ур. 79): Chaos Inoculation; Gargantuan Wasp-спектры; Convalescence вместо Reaver",
+          "Поздно: From Nothing (Bulwark), 2× Evergrasping Rings; Infernal Cry вместо Unearth; Despair вместо Brute"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Миньоны и саппорты.",
+        "points": [
+          "Основной: Skeletal Sniper",
+          "Саппорты: Multishot I, Fire Attunement, Minion Splash I, Infernal Legion I, Rage III, Elemental Army, Meat Shield II"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Shaman.",
+        "points": ["Sacred Flow", "Reactive Growth", "Avatar of Evolution", "Furious Wellspring (опционально)"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Rattling / Stoic Sceptre — скипетр",
+          "Bones of Ullr — уник",
+          "Prism Guardian — щит (или фокус на энергощит)",
+          "Evergrasping Rings ×2",
+          "Tecrod's Revenge — уник",
+          "Статы: резисты до капа, хаос-резист 60%+, энергощит, +уровни миньонов, +Spirit, блок"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Спокойный минионный стиль.",
+        "points": [
+          "Ротация: Pain Offering → команды миньонам → проклятия → Unearth → Convalescence",
+          "Скелеты-снайперы расстреливают врагов издалека",
+          "Следи за Spirit — он лимитирует число миньонов",
+          "Управляй разными типами миньонов под задачу"
+        ]
+      }
+    ]
   },
   {
     "id": "permafrost-bolt-witchhunter",
@@ -637,6 +1328,55 @@
       "Explosive Grenade под одиночные цели и боссов"
     ],
     "pros": ["Дробовик-механика — высокая концентрация урона", "Цепная заморозка по пачкам", "Sorcery Ward защищает от всех входящих ударов", "Быстрая зачистка через Culling Strike"],
-    "cons": ["Нужна заморозка до эффективности Fragmentation Rounds", "Защита держится на высоком уклонении", "Нет ручной перезарядки между свопами скиллов"]
+    "cons": ["Нужна заморозка до эффективности Fragmentation Rounds", "Защита держится на высоком уклонении", "Нет ручной перезарядки между свопами скиллов"],
+    "sections": [
+      {
+        "title": "Прокачка",
+        "summary": "Permafrost Bolts доступны с 1 уровня — играешь эндгейм-сборкой сразу, без переспека.",
+        "points": [
+          "Ур. 1: Permafrost Bolts доступны сразу; переспек не нужен",
+          "Ранняя кампания: связка Permafrost Bolts + Fragmentation Rounds; Close Combat II; чаще обновляй арбалет",
+          "Средняя: Explosive Grenade по одиночным, Freezing Mark на боссов; полезные уники — Blackheart, Grip of Winter, Wanderlust",
+          "Восхождение: Pitiless Killer → Judge, Jury, and Executioner → Obsessive Rituals (Sorcery Ward) → Ceremonial Ablution",
+          "Карты: Herald of Ash, затем Herald of Ice + Shard Scavenger через своп оружия; Wind Dancer",
+          "Освой технику свопа оружия без перезарядки между Permafrost Bolts и Fragmentation Rounds",
+          "Аспирационные уники: Yoke of Suffering, Hyrri's Ire, Sine Aequo"
+        ]
+      },
+      {
+        "title": "Скиллы",
+        "summary": "Основной урон и саппорты.",
+        "points": [
+          "Основной: Permafrost Bolt (дробовик-заморозка)",
+          "Саппорты: Close Combat II, Charged Mark, Shard Scavenger, Fragmentation Rounds, Explosive Grenade (одиночный)"
+        ]
+      },
+      {
+        "title": "Дерево",
+        "summary": "Восхождение Witchhunter.",
+        "points": ["Pitiless Killer", "Judge, Jury, and Executioner", "Obsessive Rituals", "Ceremonial Ablution"]
+      },
+      {
+        "title": "Шмот",
+        "summary": "Ключевые предметы и статы.",
+        "points": [
+          "Арбалет — основное оружие",
+          "Hyrri's Ire — броня (×2 уклонение, если не били 4 сек)",
+          "Sine Aequo — уник (аптайм заморозки)",
+          "Yoke of Suffering — амулет (стихийные недуги)",
+          "Статы: резисты до капа, рейтинг уклонения, +уровни снарядов, скорость перезарядки"
+        ]
+      },
+      {
+        "title": "Геймплей",
+        "summary": "Дробовик-заморозка.",
+        "points": [
+          "Дробовик-механика: высокая концентрация урона вблизи",
+          "Цепная заморозка по пачкам",
+          "Sorcery Ward защищает от всех входящих ударов",
+          "Своп оружия без перезарядки между скиллами"
+        ]
+      }
+    ]
   }
 ]
