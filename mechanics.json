@@ -1,0 +1,54 @@
+[
+  {
+    "id": "runes-of-aldur",
+    "title": "Лига «Runes of Aldur»",
+    "subtitle": "Лига 0.5",
+    "summary": "Основная механика лиги патча 0.5. По миру находятся Ezomyte Remnants под охраной монстров: побеждаешь — выбираешь награду, монстры воскресают усиленными, и их нужно добить ещё раз.",
+    "points": [
+      "Находишь Ezomyte Remnants, охраняемые монстрами",
+      "Убил → выбрал награду → враги воскресают с баффами под твой выбор",
+      "Добиваешь усиленных врагов и забираешь лут",
+      "Число слотов рун растёт с уровнем зоны (выше плотность монстров)",
+      "Найденные комбинации рун навсегда записываются в Runebook"
+    ],
+    "sourceUrl": "https://maxroll.gg/poe2/resources/campaign-league-mechanic-rewards-cheat-sheet"
+  },
+  {
+    "id": "runeforging",
+    "title": "Runeforging",
+    "subtitle": "Крафт лиги",
+    "summary": "Новый крафтовый механизм лиги: усиление редких и уникальных предметов материалами, которые ты находишь.",
+    "points": [
+      "Находишь крафт-материалы лиги",
+      "Усиливаешь ими редкие и уникальные предметы",
+      "Verisium добавляет Runic Ward в имплисит брони",
+      "Runic Ward — доп. запас здоровья после падения HP до 1 (время восстановиться)"
+    ],
+    "sourceUrl": "https://maxroll.gg/poe2/news/path-of-exile-2-0-5-0-return-of-the-ancients-guide-updates-more"
+  },
+  {
+    "id": "breach-rework",
+    "title": "Реворк Breach",
+    "subtitle": "Keepers of the Flame",
+    "summary": "Breach в 0.5 переработан и фактически заменён контентом «Keepers of the Flame» из PoE 1, с отличиями.",
+    "points": [
+      "Энкаунтер начинается с Unstable Breach с таймером внизу экрана",
+      "Убийство монстров «стабилизирует» брешь и сжимает круг",
+      "На стабилизации спавнятся монстры посильнее или босс",
+      "Темп решает: успевай убивать, пока идёт таймер"
+    ],
+    "sourceUrl": "https://maxroll.gg/poe2/news/path-of-exile-2-0-5-0-return-of-the-ancients-guide-updates-more"
+  },
+  {
+    "id": "qol",
+    "title": "Удобства патча 0.5",
+    "subtitle": "QoL",
+    "summary": "Патч добавил несколько долгожданных улучшений качества жизни.",
+    "points": [
+      "Поиск по карте Атласа (search bar)",
+      "Клик по предмету открывает его цену на торговом сайте",
+      "Встроенный инструмент гайдов: авторы задают шаги, игрок следует прямо в игре"
+    ],
+    "sourceUrl": "https://maxroll.gg/poe2/news/path-of-exile-2-0-5-0-return-of-the-ancients-guide-updates-more"
+  }
+]
