@@ -7,10 +7,20 @@
     "tier": "S",
     "patch": "0.5.1",
     "summary": "Молниеносный монах: обрушивает на врагов удары грозы с неба, сочетая высокую мобильность и мощный бёрст. Один из сильнейших билдов текущего патча.",
-    "keySkills": ["Falling Thunder", "Tempest Bell", "Combat Frenzy"],
+    "keySkills": [
+      "Falling Thunder",
+      "Tempest Bell",
+      "Combat Frenzy"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/falling-thunder-martial-artist-build-guide",
     "mainSkill": "Falling Thunder",
-    "supportGems": ["Culmination II", "Nova Projectiles I", "Mantra of Destruction", "Pinpoint Critical", "Blindside"],
+    "supportGems": [
+      "Culmination II",
+      "Nova Projectiles I",
+      "Mantra of Destruction",
+      "Pinpoint Critical",
+      "Blindside"
+    ],
     "ascendancyNodes": [
       "Martial Master — основной эндгейм-узел восхождения",
       "Hollow Focus Technique — берётся первым, для ранней игры",
@@ -112,11 +122,27 @@
     "tier": "S",
     "patch": "0.5.1",
     "summary": "Лучник-вихрь: создаёт смерчи, которые перемалывают толпы и дают отличный клир карт. Подвижный и зрелищный стиль игры.",
-    "keySkills": ["Tornado", "Lightning Arrow", "Snipe"],
+    "keySkills": [
+      "Tornado",
+      "Lightning Arrow",
+      "Snipe"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/twister-deadeye-build-guide",
     "mainSkill": "Twister",
-    "supportGems": ["Ice-Tipped Arrows", "Barrage", "Salvo", "Pinpoint Critical", "Eternal Mark", "Inexorable Critical II"],
-    "ascendancyNodes": ["Gathering Winds", "Avidity", "Thrilling Chase", "Called Shots"],
+    "supportGems": [
+      "Ice-Tipped Arrows",
+      "Barrage",
+      "Salvo",
+      "Pinpoint Critical",
+      "Eternal Mark",
+      "Inexorable Critical II"
+    ],
+    "ascendancyNodes": [
+      "Gathering Winds",
+      "Avidity",
+      "Thrilling Chase",
+      "Called Shots"
+    ],
     "keyGear": [
       "Wake of Destruction — уник на урон",
       "The Taming — кольцо-уник",
@@ -137,8 +163,15 @@
       "Акт 2: берём Frost Nexus, убираем Fangs of Frost",
       "Акт 3+: добавляем Herald of Ice"
     ],
-    "pros": ["Огромное покрытие по площади", "Приятные заморозки и раскол (shatter)", "Универсален: карты и боссы"],
-    "cons": ["Уязвим против боссов в ожидании кулдаунов", "Хрупкий на старте"],
+    "pros": [
+      "Огромное покрытие по площади",
+      "Приятные заморозки и раскол (shatter)",
+      "Универсален: карты и боссы"
+    ],
+    "cons": [
+      "Уязвим против боссов в ожидании кулдаунов",
+      "Хрупкий на старте"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -164,7 +197,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Deadeye.",
-        "points": ["Gathering Winds", "Avidity", "Thrilling Chase", "Called Shots"]
+        "points": [
+          "Gathering Winds",
+          "Avidity",
+          "Thrilling Chase",
+          "Called Shots"
+        ]
       },
       {
         "title": "Шмот",
@@ -197,11 +235,24 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Классический маг молний: Arc прыгает между врагами, выкашивая пачки. Простой в освоении и стабильный кастер.",
-    "keySkills": ["Arc", "Lightning Conduit", "Arcane Surge"],
+    "keySkills": [
+      "Arc",
+      "Lightning Conduit",
+      "Arcane Surge"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/arc-stormweaver-build-guide",
     "mainSkill": "Arc",
-    "supportGems": ["Zenith II", "связка наращивается до 6 линков (Jeweller's Orb)"],
-    "ascendancyNodes": ["Constant Gale", "Strike Twice", "Storm's Recollection", "Heavy Snows", "опц.: Refracted Infusion / Force of Will"],
+    "supportGems": [
+      "Archmage",
+      "Zenith II"
+    ],
+    "ascendancyNodes": [
+      "Constant Gale",
+      "Strike Twice",
+      "Storm's Recollection",
+      "Heavy Snows",
+      "опц.: Refracted Infusion / Force of Will"
+    ],
     "keyGear": [
       "Voltaic Staff — стартовый посох",
       "Chiming Staff — со 2-го комплекта оружия (ур. 25+)",
@@ -223,56 +274,129 @@
       "Ур. 25: Sigil of Power (Chiming Staff)",
       "До Archmage — Arctic Armour / Convalescence"
     ],
-    "pros": ["Сильная зачистка по площади", "Большой запас энергощита", "Быстрый старт лиги (кампания ~4 ч)"],
-    "cons": ["Стиль «не дай себя ударить» — мало права на ошибку"],
+    "pros": [
+      "Сильная зачистка по площади",
+      "Большой запас энергощита",
+      "Быстрый старт лиги (кампания ~4 ч)"
+    ],
+    "cons": [
+      "Стиль «не дай себя ударить» — мало права на ошибку"
+    ],
     "sections": [
       {
-        "title": "Прокачка",
-        "summary": "Старт на Spark, переход на Arc, в эндгейме — Archmage и Chaos Inoculation.",
+        "title": "Старт",
+        "summary": "Если ты впервые в PoE 2 и ничего не знаешь — прочитай это первым. Здесь основы и термины, которые встретятся дальше.",
         "points": [
-          "Ур. 1–5: зачистка через Spark",
-          "Ур. 6+: Lightning Bolt + Unleash; перед пачками — Orb of Storms",
-          "Ур. 14+: основной урон — Arc + Orb of Storms",
-          "Ур. 22+: добавь Mana Tempest для пачек",
-          "Ур. 25+: Chiming Staff во 2-й комплект оружия + Sigil of Power",
-          "Восхождение: Constant Gale (Trial of Sekhemas) → Strike Twice (Trial of Chaos, ур. 40+)",
-          "Карты: набери 6000+ энергощита → возьми Chaos Inoculation (иммун к хаосу/кровотечению)",
-          "Эндгейм: Archmage (нужно +60 Spirit), затем Heavy Snows / Refracted Infusion"
+          "Что за билд: Arc Stormweaver — маг молний. Кидаешь Arc, молния прыгает между врагами и выкашивает пачки. Бьёшь с дистанции — безопасно.",
+          "Класс Sorceress (волшебница), восхождение Stormweaver (выбирается позже, в испытаниях). Хорош для первого персонажа и старта лиги.",
+          "Резисты (сопротивления огню/холоду/молнии) — самое важное для выживания. Цель: все три по 75% к концу кампании. Бери их на кольцах, амулете, броне.",
+          "Жизнь и Энергощит (ЭЩ) — твоё «хп». ЭЩ — синяя полоса, восстанавливается сам, если тебя не бьют пару секунд. В этом билде ЭЩ — основная защита.",
+          "Мана — ресурс для каста. В этом билде мана = урон (через Archmage), поэтому её делают много.",
+          "Spirit (Дух) — отдельный ресурс на постоянные ауры/баффы. Для Archmage нужно набрать +60 Spirit (с амулета и брони).",
+          "Archmage — главный баф билда: заставляет тратить ману как урон. Подключаешь, когда наберёшь +60 Spirit (уже ближе к эндгейму).",
+          "Chaos Inoculation (CI) — ключевой узел дерева: твоя жизнь становится 1, но хаос-урон больше не страшен. Берётся в картах, когда ЭЩ ≥ 6000.",
+          "Гемы (Skill Gems) — твои умения, вставляются в оружие/броню. Support Gems (саппорты) усиливают основной гем.",
+          "Не пугайся обилия терминов — на вкладке «Прокачка» всё разложено по шагам, просто иди по списку сверху вниз."
+        ]
+      },
+      {
+        "title": "Прокачка",
+        "summary": "Пошагово с 1 уровня до эндгейма. Отмечай галочками сделанное. Главное правило: иди по порядку и держи резисты в плюсе.",
+        "points": [
+          "Акт 1 (ур. 1–5): основной скилл — Spark. Кидай искры по врагам, они рикошетят от стен.",
+          "Ур. 6: возьми Orb of Storms — ставь шар перед пачками и боссами, он бьёт молниями и усиливает тебя.",
+          "Акт 1: добавь Frost Bomb (снижает сопротивления врага) и Flame Wall для одиночных целей.",
+          "Акт 2 (ур. 14): открывается ARC — твой главный скилл. Переключись на него. Spark оставь для мелочи.",
+          "Совет: найди или купи Voltaic Staff — у него встроенный навык Lightning Bolt.",
+          "Восхождение №1 (Акт 2, Trial of Sekhemas): возьми Constant Gale — даёт Arcane Surge (скорость каста и реген маны).",
+          "Ур. 22: добавь Mana Tempest — усиливает урон по большим пачкам.",
+          "Ур. 25: положи Chiming Staff во 2-й комплект оружия и возьми Sigil of Power (баф урона перед боссом).",
+          "Акт 3+: добавь Elemental Weakness (проклятие, режет резисты врага) и держи Frost Bomb.",
+          "Каждые 2–3 уровня меняй посох на более мощный и не давай резистам уходить в минус.",
+          "Восхождение №2 (после кампании, Trial of Chaos, ~ур. 40): возьми Strike Twice.",
+          "Вошёл в карты: подключи Archmage (нужно +60 Spirit), сделай 5-линк на Arc, остальное 4-линк.",
+          "Набрал 6000+ энергощита → возьми Chaos Inoculation (иммунитет к хаосу).",
+          "Восхождение №3: Storm's Recollection. №4 (эндгейм): Heavy Snows (защита), Refracted Infusion или Force of Will.",
+          "Эндгейм: добудь Arbiter's Ignition + Living Bomb, сделай 6-линк на Arc."
         ]
       },
       {
         "title": "Скиллы",
-        "summary": "Основной урон и саппорты.",
+        "summary": "Твой набор умений и что каждое делает. Связку видно на схеме выше — тапни гем для пояснения.",
         "points": [
-          "Основной: Arc",
-          "Саппорты: Zenith II, связка до 6 линков (Jeweller's Orb)",
-          "Эндгейм: Archmage (+60 Spirit), Arbiter's Ignition + Living Bomb по боссам"
+          "Arc — основной урон. Молния прыгает между врагами. В эндгейме 6-линк.",
+          "Archmage — баф: добавляет к Arc урон молнией за счёт твоей маны. Сердце билда (нужен Spirit).",
+          "Zenith II — саппорт, усиливает Arc.",
+          "Оставшиеся слоты Arc заполняй саппортами на урон молнией и проникновение резистов.",
+          "Orb of Storms — ставь перед боем: бьёт молниями и копит Lightning Infusions (подбирай их, проходя по ним).",
+          "Sigil of Power — баф урона, кастуй перед боссом (нужен Chiming Staff во 2-м комплекте оружия).",
+          "Mana Tempest — усиление урона; копи Mana Remnants и активируй на жирных целях.",
+          "Frost Bomb — снижает сопротивления врага (Exposure). Ставь по боссам.",
+          "Elemental Weakness — проклятие, режет резисты врага.",
+          "Living Bomb + Arbiter's Ignition — эндгейм-связка по одиночным целям.",
+          "Mana Remnants и Siphon Elements — пассивно восстанавливают ману."
         ]
       },
       {
         "title": "Дерево",
-        "summary": "Восхождение Stormweaver.",
-        "points": ["Constant Gale", "Strike Twice", "Storm's Recollection", "Heavy Snows", "опц.: Refracted Infusion / Force of Will"]
+        "summary": "Дерево пассивок и восхождение Stormweaver: порядок и зачем.",
+        "points": [
+          "Восхождение по порядку: Constant Gale → Strike Twice → Storm's Recollection → Heavy Snows (или Refracted Infusion / Force of Will).",
+          "Constant Gale — Arcane Surge: скорость каста и реген маны.",
+          "Strike Twice — враги шокаются дважды (больше урона).",
+          "Storm's Recollection — улучшает сбор Remnants.",
+          "Heavy Snows — враги охлаждаются дважды (защитный узел, замедляет их).",
+          "Кампания: бери узлы характеристик (закрыть требования) и ранние узлы маны/энергощита.",
+          "Карты: Chaos Inoculation (при 6000+ ЭЩ), узлы крита, очки комплектов оружия.",
+          "Дальше: Arcane Intensity (большой урон от маны), узлы регена маны и эффективности каста.",
+          "Ключевой самоцвет: Eldritch Battery «From Nothing» — экономит много очков, бери в приоритете.",
+          "Полезные узлы инфузий: Infusing Power, Everlasting Infusions, Shocking Limit."
+        ]
       },
       {
         "title": "Шмот",
-        "summary": "Ключевые предметы и статы.",
+        "summary": "Что носить по ходу игры. Предметы с золотым «→ как получить» — кликни, расскажу как добыть.",
         "points": [
-          "Voltaic Staff — стартовый посох",
-          "Chiming Staff — 2-й комплект оружия (ур. 25+)",
-          "Sione's Temper — скорость зачистки",
-          "Arbiter's Ignition — одиночные цели",
-          "Статы: энергощит 6000+, +60 Spirit, резисты до капа, +уровни спеллов, скорость каста"
+          "Voltaic Staff — стартовый посох со встроенным Lightning Bolt, ранняя игра",
+          "Chiming Staff — во 2-й комплект оружия с ур. 25 (под Sigil of Power)",
+          "Sione's Temper — уник на скорость зачистки (поздняя игра)",
+          "Arbiter's Ignition — уник под одиночные цели (эндгейм)",
+          "Lavianga's Spirits — фласка, постоянный реген маны (нужен крит 30%+)",
+          "Atziri's Splendour — топовая броня (мин-макс, в паре с Dialla's Desire)",
+          "Headhunter — пояс на скорость и выживание в прокачанном контенте (опционально)",
+          "Приоритет статов: +уровни молниевых/спелл-скиллов, % урона спеллов, крит, скорость каста, мана и % макс. маны",
+          "Защита: резисты до 75%, максимум энергощита, скорость старта восстановления ЭЩ",
+          "Цели: +60 Spirit (под Archmage), 6000+ энергощита (под Chaos Inoculation), 20–35% скорости передвижения на ботинках"
+        ]
+      },
+      {
+        "title": "Крафт",
+        "summary": "Как сделать себе шмот. Базовый крафт для новичка — всё проще, чем кажется.",
+        "points": [
+          "Редкость: Обычный (белый) → Магический (синий, до 2 модов) → Редкий (жёлтый, до 6 модов).",
+          "Сокеты в оружии/броне открывай Artificer's Orb, вставляй руны (Lesser Storm/Glacial/Desert/Iron) под урон и резисты.",
+          "Простой апгрейд белого: Orb of Transmutation → Augmentation (магический с 2 модами), затем Regal Orb → редкий.",
+          "Нужен конкретный мод? Используй эссенцию — она гарантирует тип модификатора.",
+          "Дорогой реролл редкого — Chaos Orb (меняет один мод). Числовые значения докручивай Divine Orb.",
+          "Для этого билда на оружии ищи: +уровни спелл-скиллов, % урона спеллов/молнии, крит, скорость каста.",
+          "На броне/кольцах/амулете: резисты до капа, максимум маны и энергощита, +Spirit на амулете (база Solar Amulet).",
+          "Качество поднимай: на кольцах Neural Catalyst, на броне — соответствующей валютой качества.",
+          "В кампании не гонись за идеалом: бери что даёт резисты и урон. Идеальный шмот — задача эндгейма."
         ]
       },
       {
         "title": "Геймплей",
-        "summary": "Безопасный кастер на дистанции.",
+        "summary": "Как играть в бою: ротация, защита и частые ошибки новичка.",
         "points": [
-          "Перед пачками ставь Orb of Storms, затем Arc",
-          "Mana Tempest для плотных групп",
-          "Держи дистанцию — стиль «не дай себя ударить»",
-          "Следи за маной — Archmage прожорлив"
+          "Зачистка карт: поставь Orb of Storms → кастуй Arc. На больших пачках добавь Mana Tempest.",
+          "Боссы: до боя кастани Orb of Storms ×2 (накопить Lightning Infusions). По боссу: Frost Bomb → Orb of Storms ×2 → Elemental Weakness → Sigil of Power → Living Bomb → Arc.",
+          "Подбирай Lightning Infusions и Mana Remnants — просто проходи по ним, они усиливают урон и кормят ману.",
+          "Защита: держись на ДИСТАНЦИИ, между пачками делай dodge roll и давай энергощиту восстановиться.",
+          "Не вкатывайся в врагов роллом — кастуй издалека.",
+          "Чармы в пояс: Thawing (от заморозки), Dousing (от поджога), Stone (от стана), Staunching (от кровотечения).",
+          "До подключения Archmage можешь держать Arctic Armour или Convalescence для выживания.",
+          "Частая ошибка: уйти в минус по резистам — входящий урон резко растёт. Всегда держи 75%.",
+          "Частая ошибка: стоять в упор. Билд хрупкий — твоя защита это дистанция и быстрый урон."
         ]
       }
     ]
@@ -285,11 +409,28 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Охотница с духом-спутником: питомец танкует и наносит урон, пока вы его поддерживаете. Комфортный полу-минионный билд.",
-    "keySkills": ["Summon Companion", "Spear Throw", "Herald of Blood"],
+    "keySkills": [
+      "Summon Companion",
+      "Spear Throw",
+      "Herald of Blood"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/companion-spirit-walker-build-guide",
     "mainSkill": "Companion (призыв зверя — Mighty Silverfist)",
-    "supportGems": ["Rapid Attacks II", "Rage III", "Hulking Minions", "Muster", "Loyalty"],
-    "ascendancyNodes": ["The Catha's Balance", "The Natural Order", "Idolatry", "Crystalline Flesh", "Relentless Fallen", "Splintering Force"],
+    "supportGems": [
+      "Rapid Attacks II",
+      "Rage III",
+      "Hulking Minions",
+      "Muster",
+      "Loyalty"
+    ],
+    "ascendancyNodes": [
+      "The Catha's Balance",
+      "The Natural Order",
+      "Idolatry",
+      "Crystalline Flesh",
+      "Relentless Fallen",
+      "Splintering Force"
+    ],
     "keyGear": [
       "Tyranny's Grip — улучшается 2× на Verisium Anvil",
       "Sylvan's Effigy — уник",
@@ -309,8 +450,16 @@
       "Акт 3 (Jungle Ruins): приручить Mighty Silverback",
       "После Акта 3: Explosive / Flash Grenade (с Multishot)"
     ],
-    "pros": ["Простой пассивный стиль игры", "Не требует уников для работы", "Урон делают миньоны"],
-    "cons": ["После нерфа меньше митигации", "Нужно приручать конкретных зверей", "Сложный менеджмент резерва с несколькими спутниками"],
+    "pros": [
+      "Простой пассивный стиль игры",
+      "Не требует уников для работы",
+      "Урон делают миньоны"
+    ],
+    "cons": [
+      "После нерфа меньше митигации",
+      "Нужно приручать конкретных зверей",
+      "Сложный менеджмент резерва с несколькими спутниками"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -337,7 +486,14 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Spirit Walker.",
-        "points": ["The Natural Order", "The Catha's Balance", "Idolatry", "Crystalline Flesh", "Relentless Fallen", "Splintering Force"]
+        "points": [
+          "The Natural Order",
+          "The Catha's Balance",
+          "Idolatry",
+          "Crystalline Flesh",
+          "Relentless Fallen",
+          "Splintering Force"
+        ]
       },
       {
         "title": "Шмот",
@@ -370,11 +526,25 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Тотемный друид: расставляет колонны-тотемы, которые наносят урон за вас. Безопасная игра на расстоянии.",
-    "keySkills": ["Grim Pillars", "Spell Totem", "Hexblast"],
+    "keySkills": [
+      "Grim Pillars",
+      "Spell Totem",
+      "Hexblast"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/grim-pillars-spell-totem-oracle-build-guide",
     "mainSkill": "Grim Pillars",
-    "supportGems": ["Spell Totem (мета-гем)", "Biting Frost I", "Living Lightning", "Thaumaturgic Flux (ур. 9+)"],
-    "ascendancyNodes": ["The Unseen Path", "The Lesser Harm", "Forced Outcome", "Unnamed Heartwood"],
+    "supportGems": [
+      "Spell Totem (мета-гем)",
+      "Biting Frost I",
+      "Living Lightning",
+      "Thaumaturgic Flux (ур. 9+)"
+    ],
+    "ascendancyNodes": [
+      "The Unseen Path",
+      "The Lesser Harm",
+      "Forced Outcome",
+      "Unnamed Heartwood"
+    ],
     "keyGear": [
       "Скипетр с Purity of Fire/Ice/Lightning",
       "Жезл и фокус с +уровнями скиллов",
@@ -396,8 +566,15 @@
       "Ур. 22+: Grim Pillars (руны Aldur или трейд)",
       "Эндгейм: Rakiata's Flow"
     ],
-    "pros": ["Один из лучших стартеров лиги", "Высокий урон и скорость зачистки", "Безопасный стиль на дистанции"],
-    "cons": ["Тотемный геймплей нравится не всем", "Высокая нагрузка на видеокарту (визуал)"],
+    "pros": [
+      "Один из лучших стартеров лиги",
+      "Высокий урон и скорость зачистки",
+      "Безопасный стиль на дистанции"
+    ],
+    "cons": [
+      "Тотемный геймплей нравится не всем",
+      "Высокая нагрузка на видеокарту (визуал)"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -426,7 +603,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Oracle.",
-        "points": ["The Unseen Path", "The Lesser Harm", "Forced Outcome", "Unnamed Heartwood"]
+        "points": [
+          "The Unseen Path",
+          "The Lesser Harm",
+          "Forced Outcome",
+          "Unnamed Heartwood"
+        ]
       },
       {
         "title": "Шмот",
@@ -459,11 +641,27 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Гренадёр: забрасывает врагов масляными гранатами и поджигает их. Контроль зоны и стабильный урон по площади.",
-    "keySkills": ["Oil Grenade", "Explosive Grenade", "Galvanic Shards"],
+    "keySkills": [
+      "Oil Grenade",
+      "Explosive Grenade",
+      "Galvanic Shards"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/oil-grenade-witchhunter-build-guide",
     "mainSkill": "Oil Grenade",
-    "supportGems": ["Multishot I", "Armour Break II", "Armour Demolisher II", "Short Fuse II", "Rakiata's Flow"],
-    "ascendancyNodes": ["Zealous Inquisition", "Pitiless Killer", "Judge, Jury, and Executioner", "Obsessive Rituals", "Ceremonial Ablution"],
+    "supportGems": [
+      "Multishot I",
+      "Armour Break II",
+      "Armour Demolisher II",
+      "Short Fuse II",
+      "Rakiata's Flow"
+    ],
+    "ascendancyNodes": [
+      "Zealous Inquisition",
+      "Pitiless Killer",
+      "Judge, Jury, and Executioner",
+      "Obsessive Rituals",
+      "Ceremonial Ablution"
+    ],
     "keyGear": [
       "Queen of the Forest — уник (масштабирование от уклонения)",
       "Lavianga's Spirits — фласка",
@@ -483,8 +681,18 @@
       "Акт 3 (ур. 9): Oil Grenade",
       "Ур. 13: Cluster Grenade"
     ],
-    "pros": ["Быстрый, дешёвый, простой прогресс", "Сильный ранний урон", "Очень танковый в эндгейме", "Хорош против Abyss/Breach"],
-    "cons": ["Невысокий потолок развития", "Завязан на кулдауны", "Требователен к шмоту", "Много кнопок в боях с боссами"],
+    "pros": [
+      "Быстрый, дешёвый, простой прогресс",
+      "Сильный ранний урон",
+      "Очень танковый в эндгейме",
+      "Хорош против Abyss/Breach"
+    ],
+    "cons": [
+      "Невысокий потолок развития",
+      "Завязан на кулдауны",
+      "Требователен к шмоту",
+      "Много кнопок в боях с боссами"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -510,7 +718,13 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Witchhunter.",
-        "points": ["Zealous Inquisition", "Pitiless Killer", "Judge, Jury, and Executioner", "Obsessive Rituals", "Ceremonial Ablution"]
+        "points": [
+          "Zealous Inquisition",
+          "Pitiless Killer",
+          "Judge, Jury, and Executioner",
+          "Obsessive Rituals",
+          "Ceremonial Ablution"
+        ]
       },
       {
         "title": "Шмот",
@@ -543,11 +757,27 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Проклинающий лич: накладывает ауры-проклятия, ослабляя врагов, и добивает их тёмной магией. Сильный эндгейм-гибрид саппорта и урона.",
-    "keySkills": ["Blasphemy", "Despair", "Essence Drain"],
+    "keySkills": [
+      "Blasphemy",
+      "Despair",
+      "Essence Drain"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/blasphemy-cursebot-lich-endgame-build-guide",
     "mainSkill": "Blasphemy (ауры-проклятия)",
-    "supportGems": ["Incessant Cacophony", "Enfeeble", "Vulnerability", "Despair", "Temporal Chains", "Elemental Weakness"],
-    "ascendancyNodes": ["Necromantic Conduit", "Blackened Heart", "Rupture the Soul", "Incessant Cacophony"],
+    "supportGems": [
+      "Incessant Cacophony",
+      "Enfeeble",
+      "Vulnerability",
+      "Despair",
+      "Temporal Chains",
+      "Elemental Weakness"
+    ],
+    "ascendancyNodes": [
+      "Necromantic Conduit",
+      "Blackened Heart",
+      "Rupture the Soul",
+      "Incessant Cacophony"
+    ],
     "keyGear": [
       "Alpha's Howl — шлем",
       "The Prisoner's Manacles — перчатки",
@@ -565,8 +795,16 @@
       "Эндгейм-версия рассчитана на ур. 70+",
       "До этого качаемся обычным сетапом лича"
     ],
-    "pros": ["Билд «0 кнопок»", "Бесконечное наложение проклятий", "Множитель урона для группы (2×+)"],
-    "cons": ["Раскрывается в групповой игре", "Сложности с выживаемостью", "Эндгейм-версия с порога ур. 70+"],
+    "pros": [
+      "Билд «0 кнопок»",
+      "Бесконечное наложение проклятий",
+      "Множитель урона для группы (2×+)"
+    ],
+    "cons": [
+      "Раскрывается в групповой игре",
+      "Сложности с выживаемостью",
+      "Эндгейм-версия с порога ур. 70+"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -592,7 +830,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Lich.",
-        "points": ["Necromantic Conduit", "Blackened Heart", "Rupture the Soul", "Incessant Cacophony"]
+        "points": [
+          "Necromantic Conduit",
+          "Blackened Heart",
+          "Rupture the Soul",
+          "Incessant Cacophony"
+        ]
       },
       {
         "title": "Шмот",
@@ -626,11 +869,26 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Воин-вихрь: раскручивается в гущу врагов, нанося урон по кругу. Танковый ближний бой для эндгейма.",
-    "keySkills": ["Whirling Assault", "Hulking Form", "Leap Slam"],
+    "keySkills": [
+      "Whirling Assault",
+      "Hulking Form",
+      "Leap Slam"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/whirling-assault-titan-endgame-build-guide",
     "mainSkill": "Whirling Assault",
-    "supportGems": ["Ancestral Call II", "Channelled Heritage", "Atalui's Bloodletting", "Garukhan's Resolve", "Uul-Netol's Embrace", "Ailith's Chimes"],
-    "ascendancyNodes": ["Hulking Form", "Stone Skin", "Crushing Impacts / Mysterious Lineage"],
+    "supportGems": [
+      "Ancestral Call II",
+      "Channelled Heritage",
+      "Atalui's Bloodletting",
+      "Garukhan's Resolve",
+      "Uul-Netol's Embrace",
+      "Ailith's Chimes"
+    ],
+    "ascendancyNodes": [
+      "Hulking Form",
+      "Stone Skin",
+      "Crushing Impacts / Mysterious Lineage"
+    ],
     "keyGear": [
       "The Brass Dome — обязательный уник (броня)",
       "Ryslatha's Coil — пояс-уник",
@@ -650,8 +908,16 @@
       "Собираем связку к появлению The Brass Dome",
       "Эндгейм: полный сетап Whirling Assault"
     ],
-    "pros": ["Зачистка экрана по площади", "Высокая выживаемость через броню", "Комфортный маппинг, тянет весь контент"],
-    "cons": ["Требует конкретные уники (The Brass Dome обязателен)", "Одиночный урон зависит от ротации", "Нужно следить за требованиями характеристик"],
+    "pros": [
+      "Зачистка экрана по площади",
+      "Высокая выживаемость через броню",
+      "Комфортный маппинг, тянет весь контент"
+    ],
+    "cons": [
+      "Требует конкретные уники (The Brass Dome обязателен)",
+      "Одиночный урон зависит от ротации",
+      "Нужно следить за требованиями характеристик"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -677,7 +943,11 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Titan.",
-        "points": ["Hulking Form", "Stone Skin", "Crushing Impacts / Mysterious Lineage"]
+        "points": [
+          "Hulking Form",
+          "Stone Skin",
+          "Crushing Impacts / Mysterious Lineage"
+        ]
       },
       {
         "title": "Шмот",
@@ -709,11 +979,23 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Ледяной стрелок: выстрелы взрываются осколками льда, замораживая и зачищая экраны. Надёжный лиг-стартер.",
-    "keySkills": ["Ice Shot", "Herald of Ice", "Snipe"],
+    "keySkills": [
+      "Ice Shot",
+      "Herald of Ice",
+      "Snipe"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/ice-shot-deadeye-build-guide",
     "mainSkill": "Ice Shot",
-    "supportGems": ["Snipe — добивание замороженных целей", "Herald of Ice — цепные взрывы льда"],
-    "ascendancyNodes": ["Gathering Winds", "Called Shots", "Bullseye", "Point Blank"],
+    "supportGems": [
+      "Snipe — добивание замороженных целей",
+      "Herald of Ice — цепные взрывы льда"
+    ],
+    "ascendancyNodes": [
+      "Gathering Winds",
+      "Called Shots",
+      "Bullseye",
+      "Point Blank"
+    ],
     "keyGear": [
       "Hyrri's Ire — броня-уник",
       "Cadiro's Gambit — колчан",
@@ -736,8 +1018,15 @@
       "Ур. 31: переход на Ice Shot",
       "Stormcaller Arrow — пока не доступен Snipe"
     ],
-    "pros": ["Огромный потенциал заморозки", "Сильная зачистка ледяными взрывами", "Высокий одиночный урон через Snipe по заморозке"],
-    "cons": ["Защита держится на заморозке — против иммунных к заморозке сложнее", "Хрупкий до набора шмота"],
+    "pros": [
+      "Огромный потенциал заморозки",
+      "Сильная зачистка ледяными взрывами",
+      "Высокий одиночный урон через Snipe по заморозке"
+    ],
+    "cons": [
+      "Защита держится на заморозке — против иммунных к заморозке сложнее",
+      "Хрупкий до набора шмота"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -763,7 +1052,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Deadeye.",
-        "points": ["Gathering Winds", "Called Shots", "Bullseye", "Point Blank"]
+        "points": [
+          "Gathering Winds",
+          "Called Shots",
+          "Bullseye",
+          "Point Blank"
+        ]
       },
       {
         "title": "Шмот",
@@ -796,11 +1090,27 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Армия миньонов: толпа прислужников делает всю работу, пока вы баффаете и проклинаете. Дружелюбен к новичкам.",
-    "keySkills": ["Summon Skeletal Snipers", "Raise Zombie", "Flammability"],
+    "keySkills": [
+      "Summon Skeletal Snipers",
+      "Raise Zombie",
+      "Flammability"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/minion-army-infernalist-build-guide",
     "mainSkill": "Армия миньонов (Skeletal Snipers + Volcano)",
-    "supportGems": ["Minion Splash I", "Meat Shield II", "Magnified Area II", "Elemental Army", "Pain Offering", "Arcane Surge"],
-    "ascendancyNodes": ["Loyal Hellhound", "Altered Flesh", "Beidat's Will", "Beidat's Hand"],
+    "supportGems": [
+      "Minion Splash I",
+      "Meat Shield II",
+      "Magnified Area II",
+      "Elemental Army",
+      "Pain Offering",
+      "Arcane Surge"
+    ],
+    "ascendancyNodes": [
+      "Loyal Hellhound",
+      "Altered Flesh",
+      "Beidat's Will",
+      "Beidat's Hand"
+    ],
     "keyGear": [
       "Bones of Ullr — уник",
       "Trenchtimbre — уник",
@@ -822,8 +1132,18 @@
       "Акт 3: Raging Spirits, Pain Offering, Elemental Weakness",
       "Акт 4+: спектры вместо поджигателей"
     ],
-    "pros": ["Урон миньонов масштабируется из многих источников", "Не требует обязательных уников", "Работает от кампании до эндгейма", "Защита: энергощит + блок"],
-    "cons": ["Vaal Guard-спектр может просаживать производительность", "Ранний менеджмент маны", "Лимит Spirit на число миньонов", "Уязвимость к хаос-урону"],
+    "pros": [
+      "Урон миньонов масштабируется из многих источников",
+      "Не требует обязательных уников",
+      "Работает от кампании до эндгейма",
+      "Защита: энергощит + блок"
+    ],
+    "cons": [
+      "Vaal Guard-спектр может просаживать производительность",
+      "Ранний менеджмент маны",
+      "Лимит Spirit на число миньонов",
+      "Уязвимость к хаос-урону"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -849,7 +1169,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Infernalist.",
-        "points": ["Loyal Hellhound", "Altered Flesh", "Beidat's Will", "Beidat's Hand (или 2× жизнь, если <1400 HP)"]
+        "points": [
+          "Loyal Hellhound",
+          "Altered Flesh",
+          "Beidat's Will",
+          "Beidat's Hand (или 2× жизнь, если <1400 HP)"
+        ]
       },
       {
         "title": "Шмот",
@@ -883,11 +1208,26 @@
     "tier": "A",
     "patch": "0.5.1",
     "summary": "Амазонка-кровотечение: копьём наносит глубокие порезы, враги истекают кровью со временем. Сильный физический ДоТ.",
-    "keySkills": ["Rake", "Bleeding", "Disengage"],
+    "keySkills": [
+      "Rake",
+      "Bleeding",
+      "Disengage"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/bleed-rake-amazon-build-guide",
     "mainSkill": "Rake",
-    "supportGems": ["Poison III", "Bursting Plague", "Single Out", "Rupture", "Greater Vision Rune"],
-    "ascendancyNodes": ["Critical Strike", "Predatory Instinct", "Penetrate", "In for the Kill / Azmeri Brew"],
+    "supportGems": [
+      "Poison III",
+      "Bursting Plague",
+      "Single Out",
+      "Rupture",
+      "Greater Vision Rune"
+    ],
+    "ascendancyNodes": [
+      "Critical Strike",
+      "Predatory Instinct",
+      "Penetrate",
+      "In for the Kill / Azmeri Brew"
+    ],
     "keyGear": [
       "Horns of Bynden — уник",
       "Venopuncture — уник (ур. 36+)",
@@ -908,8 +1248,17 @@
       "Ур. 14: Spearfield",
       "Ранние карты: Rake, Disengage, Blood Hunt, Herald of Blood"
     ],
-    "pros": ["Высокий урон через масштабирование кровотечения", "Отличная мобильность (Rake, Disengage)", "Зачистка на дистанции (Spearfield)", "Сильный одиночный бёрст"],
-    "cons": ["Уязвимость к оглушению", "Сложные требования характеристик", "RNG защиты на уклонении"],
+    "pros": [
+      "Высокий урон через масштабирование кровотечения",
+      "Отличная мобильность (Rake, Disengage)",
+      "Зачистка на дистанции (Spearfield)",
+      "Сильный одиночный бёрст"
+    ],
+    "cons": [
+      "Уязвимость к оглушению",
+      "Сложные требования характеристик",
+      "RNG защиты на уклонении"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -935,7 +1284,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Amazon.",
-        "points": ["Critical Strike", "Predatory Instinct", "Penetrate", "In for the Kill / Azmeri Brew"]
+        "points": [
+          "Critical Strike",
+          "Predatory Instinct",
+          "Penetrate",
+          "In for the Kill / Azmeri Brew"
+        ]
       },
       {
         "title": "Шмот",
@@ -969,11 +1323,28 @@
     "tier": "B",
     "patch": "0.5.1",
     "summary": "Холодные искры: рикошетящие снаряды заполняют арену, хорошо работают по боссам. Требует аккуратного билда маны.",
-    "keySkills": ["Spark", "Cold Mastery", "Arcane Surge"],
+    "keySkills": [
+      "Spark",
+      "Cold Mastery",
+      "Arcane Surge"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/cold-spark-pathfinder-build-guide",
     "mainSkill": "Spark",
-    "supportGems": ["Projectile Acceleration III", "Prolonged Duration II", "Fork / Pierce II", "Pinpoint Critical", "Spell Cascade", "Unleash", "Cast on Critical"],
-    "ascendancyNodes": ["Relentless Pursuit", "Running Assault", "Path Seeker", "Traveller's Wisdom"],
+    "supportGems": [
+      "Projectile Acceleration III",
+      "Prolonged Duration II",
+      "Fork / Pierce II",
+      "Pinpoint Critical",
+      "Spell Cascade",
+      "Unleash",
+      "Cast on Critical"
+    ],
+    "ascendancyNodes": [
+      "Relentless Pursuit",
+      "Running Assault",
+      "Path Seeker",
+      "Traveller's Wisdom"
+    ],
     "keyGear": [
       "Call of the Brotherhood — кольцо-уник (конвертация в холод)",
       "Maligaro's Virtuosity — перчатки",
@@ -995,8 +1366,16 @@
       "Карты: переход на Cast on Critical Comet, Living Bomb",
       "Эндгейм: своп на Chaos Inoculation"
     ],
-    "pros": ["Отличная зачистка, мобильность и одиночный урон", "Иммунитет ко всем замедлениям", "Каст на ходу без штрафа скорости"],
-    "cons": ["Высокий расход маны на Cast on Critical", "Дорогой в максимальной версии", "Нужен Spirit под способности"],
+    "pros": [
+      "Отличная зачистка, мобильность и одиночный урон",
+      "Иммунитет ко всем замедлениям",
+      "Каст на ходу без штрафа скорости"
+    ],
+    "cons": [
+      "Высокий расход маны на Cast on Critical",
+      "Дорогой в максимальной версии",
+      "Нужен Spirit под способности"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -1020,7 +1399,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Pathfinder.",
-        "points": ["Relentless Pursuit", "Running Assault", "Path Seeker", "Traveller's Wisdom"]
+        "points": [
+          "Relentless Pursuit",
+          "Running Assault",
+          "Path Seeker",
+          "Traveller's Wisdom"
+        ]
       },
       {
         "title": "Шмот",
@@ -1054,11 +1438,29 @@
     "tier": "B",
     "patch": "0.5.1",
     "summary": "Монах ближнего боя: серии ледяных ударов с высокой скоростью атаки. Отличный клир, но хрупкий на старте. Гайд по прокачке.",
-    "keySkills": ["Ice Strike", "Tempest Flurry", "Wind Dancer"],
+    "keySkills": [
+      "Ice Strike",
+      "Tempest Flurry",
+      "Wind Dancer"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/tempest-flurry-invoker-leveling-guide",
     "mainSkill": "Ice Strike (после Акта 1)",
-    "supportGems": ["Tempest Bell", "Charged Staff", "Shattering Palm", "Herald of Ice", "Combat Frenzy", "Elemental Conflux", "Wind Dancer"],
-    "ascendancyNodes": ["I am the Thunder", "and I Shall Rage", "Lead me through Grace", "Sunder my Enemies", "Meditate (защитный узел)"],
+    "supportGems": [
+      "Tempest Bell",
+      "Charged Staff",
+      "Shattering Palm",
+      "Herald of Ice",
+      "Combat Frenzy",
+      "Elemental Conflux",
+      "Wind Dancer"
+    ],
+    "ascendancyNodes": [
+      "I am the Thunder",
+      "and I Shall Rage",
+      "Lead me through Grace",
+      "Sunder my Enemies",
+      "Meditate (защитный узел)"
+    ],
     "keyGear": [
       "Rakiata's Flow — эндгейм-оружие (огромный прирост урона)",
       "Walker of the Wilds — уник",
@@ -1077,8 +1479,16 @@
       "Акт 1: Glacial Cascade до Count Geonor → затем Ice Strike",
       "Акты 2-4: Ice Strike + добор саппортов"
     ],
-    "pros": ["Взрывы холода на весь экран (Shattering Palm + Herald of Ice)", "Огромный запас энергощита (~15000 с Meditate)", "Заморозка как защитный слой"],
-    "cons": ["Ближний бой тяжёл в ранних актах", "Скачки сложности (Акт 2 Dreadnought, Акт 4)", "Высокие требования Spirit (220 под полный сетап)"],
+    "pros": [
+      "Взрывы холода на весь экран (Shattering Palm + Herald of Ice)",
+      "Огромный запас энергощита (~15000 с Meditate)",
+      "Заморозка как защитный слой"
+    ],
+    "cons": [
+      "Ближний бой тяжёл в ранних актах",
+      "Скачки сложности (Акт 2 Dreadnought, Акт 4)",
+      "Высокие требования Spirit (220 под полный сетап)"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -1103,7 +1513,13 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Invoker.",
-        "points": ["I am the Thunder", "and I Shall Rage", "Lead me through Grace", "Sunder my Enemies", "Meditate (защитный узел)"]
+        "points": [
+          "I am the Thunder",
+          "and I Shall Rage",
+          "Lead me through Grace",
+          "Sunder my Enemies",
+          "Meditate (защитный узел)"
+        ]
       },
       {
         "title": "Шмот",
@@ -1136,11 +1552,25 @@
     "tier": "B",
     "patch": "0.5.1",
     "summary": "Сокрушительные удары: накапливает оглушение и взрывает его уроном по площади. Простой и мощный билд для прокачки.",
-    "keySkills": ["Boneshatter", "Sunder", "Leap Slam"],
+    "keySkills": [
+      "Boneshatter",
+      "Sunder",
+      "Leap Slam"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/boneshatter-titan-leveling-guide",
     "mainSkill": "Boneshatter",
-    "supportGems": ["Brink (на Leap Slam)", "Overpower (на Leap Slam)", "Window of Opportunity (на Perfect Strike)"],
-    "ascendancyNodes": ["Stone Skin (ранний)", "Colossal Capacity", "Hulking Form", "Mysterious Lineage", "избегать Crushing Impacts (ломает прайминг оглушения)"],
+    "supportGems": [
+      "Brink (на Leap Slam)",
+      "Overpower (на Leap Slam)",
+      "Window of Opportunity (на Perfect Strike)"
+    ],
+    "ascendancyNodes": [
+      "Stone Skin (ранний)",
+      "Colossal Capacity",
+      "Hulking Form",
+      "Mysterious Lineage",
+      "избегать Crushing Impacts (ломает прайминг оглушения)"
+    ],
     "keyGear": [
       "Двуручная булава — основное оружие",
       "The Surrender — щит (выживаемость в картах)",
@@ -1160,8 +1590,17 @@
       "Акт 2+: добавляем Leap Slam, Boneshatter, Earthquake, Infernal Cry",
       "Апгрейд скиллов примерно каждые 10 уровней"
     ],
-    "pros": ["Взрывы на весь экран через синергию Boneshatter", "Сильный бёрст через тяжёлое оглушение", "Защита на блоке", "Не требует уников для работы"],
-    "cons": ["Нужно освоить отмену анимаций для плавности", "Одиночный урон зависит от ротации", "Менеджмент маны в ранней игре"],
+    "pros": [
+      "Взрывы на весь экран через синергию Boneshatter",
+      "Сильный бёрст через тяжёлое оглушение",
+      "Защита на блоке",
+      "Не требует уников для работы"
+    ],
+    "cons": [
+      "Нужно освоить отмену анимаций для плавности",
+      "Одиночный урон зависит от ротации",
+      "Менеджмент маны в ранней игре"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -1186,7 +1625,13 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Titan.",
-        "points": ["Stone Skin (ранний)", "Colossal Capacity", "Hulking Form", "Mysterious Lineage", "избегать Crushing Impacts (ломает прайминг оглушения)"]
+        "points": [
+          "Stone Skin (ранний)",
+          "Colossal Capacity",
+          "Hulking Form",
+          "Mysterious Lineage",
+          "избегать Crushing Impacts (ломает прайминг оглушения)"
+        ]
       },
       {
         "title": "Шмот",
@@ -1219,11 +1664,28 @@
     "tier": "B",
     "patch": "0.5.1",
     "summary": "Скелеты-снайперы: поднимает лучников-нежить, что расстреливают врагов издалека. Спокойный минионный стиль.",
-    "keySkills": ["Summon Skeletal Snipers", "Totemic Boon", "Conductivity"],
+    "keySkills": [
+      "Summon Skeletal Snipers",
+      "Totemic Boon",
+      "Conductivity"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/skeletal-sniper-shaman-build-guide",
     "mainSkill": "Skeletal Sniper",
-    "supportGems": ["Multishot I", "Fire Attunement", "Minion Splash I", "Infernal Legion I", "Rage III", "Elemental Army", "Meat Shield II"],
-    "ascendancyNodes": ["Sacred Flow", "Reactive Growth", "Avatar of Evolution", "Furious Wellspring (опционально)"],
+    "supportGems": [
+      "Multishot I",
+      "Fire Attunement",
+      "Minion Splash I",
+      "Infernal Legion I",
+      "Rage III",
+      "Elemental Army",
+      "Meat Shield II"
+    ],
+    "ascendancyNodes": [
+      "Sacred Flow",
+      "Reactive Growth",
+      "Avatar of Evolution",
+      "Furious Wellspring (опционально)"
+    ],
     "keyGear": [
       "Rattling / Stoic Sceptre — скипетр",
       "Bones of Ullr — уник",
@@ -1244,8 +1706,18 @@
       "После King in the Mists: Raging Spirits",
       "Акты 3-4: спектры, Skeletal Storm Mage, Vulnerability"
     ],
-    "pros": ["Не требует обязательных уников", "Работает от старта кампании до эндгейма", "Разные типы миньонов под разные задачи", "Защита на энергощите и блоке"],
-    "cons": ["С Chaos Inoculation нельзя моды в обход энергощита", "Ранний менеджмент маны", "Завязан на Spirit для числа миньонов", "Сложно управлять разными миньонами"],
+    "pros": [
+      "Не требует обязательных уников",
+      "Работает от старта кампании до эндгейма",
+      "Разные типы миньонов под разные задачи",
+      "Защита на энергощите и блоке"
+    ],
+    "cons": [
+      "С Chaos Inoculation нельзя моды в обход энергощита",
+      "Ранний менеджмент маны",
+      "Завязан на Spirit для числа миньонов",
+      "Сложно управлять разными миньонами"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -1270,7 +1742,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Shaman.",
-        "points": ["Sacred Flow", "Reactive Growth", "Avatar of Evolution", "Furious Wellspring (опционально)"]
+        "points": [
+          "Sacred Flow",
+          "Reactive Growth",
+          "Avatar of Evolution",
+          "Furious Wellspring (опционально)"
+        ]
       },
       {
         "title": "Шмот",
@@ -1304,11 +1781,26 @@
     "tier": "B",
     "patch": "0.5.1",
     "summary": "Морозные болты: замораживает цели арбалетными выстрелами, контролируя бой. Точный и безопасный стрелок.",
-    "keySkills": ["Permafrost Bolts", "Galvanic Shards", "Cold Mastery"],
+    "keySkills": [
+      "Permafrost Bolts",
+      "Galvanic Shards",
+      "Cold Mastery"
+    ],
     "guideUrl": "https://maxroll.gg/poe2/build-guides/permafrost-bolt-witchhunter-build-guide",
     "mainSkill": "Permafrost Bolt (дробовик-заморозка)",
-    "supportGems": ["Close Combat II", "Charged Mark", "Shard Scavenger", "Fragmentation Rounds (доп. основной)", "Explosive Grenade (одиночный)"],
-    "ascendancyNodes": ["Pitiless Killer", "Judge, Jury, and Executioner", "Obsessive Rituals", "Ceremonial Ablution"],
+    "supportGems": [
+      "Close Combat II",
+      "Charged Mark",
+      "Shard Scavenger",
+      "Fragmentation Rounds (доп. основной)",
+      "Explosive Grenade (одиночный)"
+    ],
+    "ascendancyNodes": [
+      "Pitiless Killer",
+      "Judge, Jury, and Executioner",
+      "Obsessive Rituals",
+      "Ceremonial Ablution"
+    ],
     "keyGear": [
       "Арбалет — основное оружие",
       "Hyrri's Ire — броня (×2 уклонение, если не били 4 сек)",
@@ -1327,8 +1819,17 @@
       "Добавляем Fragmentation Rounds для зачистки пачек",
       "Explosive Grenade под одиночные цели и боссов"
     ],
-    "pros": ["Дробовик-механика — высокая концентрация урона", "Цепная заморозка по пачкам", "Sorcery Ward защищает от всех входящих ударов", "Быстрая зачистка через Culling Strike"],
-    "cons": ["Нужна заморозка до эффективности Fragmentation Rounds", "Защита держится на высоком уклонении", "Нет ручной перезарядки между свопами скиллов"],
+    "pros": [
+      "Дробовик-механика — высокая концентрация урона",
+      "Цепная заморозка по пачкам",
+      "Sorcery Ward защищает от всех входящих ударов",
+      "Быстрая зачистка через Culling Strike"
+    ],
+    "cons": [
+      "Нужна заморозка до эффективности Fragmentation Rounds",
+      "Защита держится на высоком уклонении",
+      "Нет ручной перезарядки между свопами скиллов"
+    ],
     "sections": [
       {
         "title": "Прокачка",
@@ -1354,7 +1855,12 @@
       {
         "title": "Дерево",
         "summary": "Восхождение Witchhunter.",
-        "points": ["Pitiless Killer", "Judge, Jury, and Executioner", "Obsessive Rituals", "Ceremonial Ablution"]
+        "points": [
+          "Pitiless Killer",
+          "Judge, Jury, and Executioner",
+          "Obsessive Rituals",
+          "Ceremonial Ablution"
+        ]
       },
       {
         "title": "Шмот",
