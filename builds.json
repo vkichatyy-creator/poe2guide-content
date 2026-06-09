@@ -399,7 +399,8 @@
           "Частая ошибка: стоять в упор. Билд хрупкий — твоя защита это дистанция и быстрый урон."
         ]
       }
-    ]
+    ],
+    "treeImageUrl": "https://raw.githubusercontent.com/vkichatyy-creator/poe2guide-content/main/trees/arc-stormweaver.png"
   },
   {
     "id": "companion-spirit-walker",
