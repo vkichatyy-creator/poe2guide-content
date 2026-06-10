@@ -232,7 +232,7 @@
     "name": "Arc Stormweaver",
     "className": "Sorceress",
     "ascendancy": "Stormweaver",
-    "tier": "A",
+    "tier": "B",
     "patch": "0.5.1",
     "summary": "Классический маг молний: Arc прыгает между врагами, выкашивая пачки. Простой в освоении и стабильный кастер.",
     "keySkills": [
@@ -524,7 +524,7 @@
     "name": "Grim Pillars Spell Totem Oracle",
     "className": "Druid",
     "ascendancy": "Oracle",
-    "tier": "A",
+    "tier": "S",
     "patch": "0.5.1",
     "summary": "Тотемный друид: расставляет колонны-тотемы, которые наносят урон за вас. Безопасная игра на расстоянии.",
     "keySkills": [
@@ -639,7 +639,7 @@
     "name": "Oil Grenade Witchhunter",
     "className": "Mercenary",
     "ascendancy": "Witchhunter",
-    "tier": "A",
+    "tier": "S",
     "patch": "0.5.1",
     "summary": "Гренадёр: забрасывает врагов масляными гранатами и поджигает их. Контроль зоны и стабильный урон по площади.",
     "keySkills": [
@@ -867,7 +867,7 @@
     "name": "Whirling Assault Titan",
     "className": "Warrior",
     "ascendancy": "Titan",
-    "tier": "A",
+    "tier": "S",
     "patch": "0.5.1",
     "summary": "Воин-вихрь: раскручивается в гущу врагов, нанося урон по кругу. Танковый ближний бой для эндгейма.",
     "keySkills": [
@@ -977,7 +977,7 @@
     "name": "Ice Shot Deadeye",
     "className": "Ranger",
     "ascendancy": "Deadeye",
-    "tier": "A",
+    "tier": "S",
     "patch": "0.5.1",
     "summary": "Ледяной стрелок: выстрелы взрываются осколками льда, замораживая и зачищая экраны. Надёжный лиг-стартер.",
     "keySkills": [
@@ -1088,7 +1088,7 @@
     "name": "Minion Army Infernalist",
     "className": "Witch",
     "ascendancy": "Infernalist",
-    "tier": "A",
+    "tier": "B",
     "patch": "0.5.1",
     "summary": "Армия миньонов: толпа прислужников делает всю работу, пока вы баффаете и проклинаете. Дружелюбен к новичкам.",
     "keySkills": [
@@ -1321,7 +1321,7 @@
     "name": "Cold Spark Pathfinder",
     "className": "Ranger",
     "ascendancy": "Pathfinder",
-    "tier": "B",
+    "tier": "A",
     "patch": "0.5.1",
     "summary": "Холодные искры: рикошетящие снаряды заполняют арену, хорошо работают по боссам. Требует аккуратного билда маны.",
     "keySkills": [
@@ -1550,7 +1550,7 @@
     "name": "Boneshatter Titan",
     "className": "Warrior",
     "ascendancy": "Titan",
-    "tier": "B",
+    "tier": "A",
     "patch": "0.5.1",
     "summary": "Сокрушительные удары: накапливает оглушение и взрывает его уроном по площади. Простой и мощный билд для прокачки.",
     "keySkills": [
@@ -1662,7 +1662,7 @@
     "name": "Skeletal Sniper Shaman",
     "className": "Druid",
     "ascendancy": "Shaman",
-    "tier": "B",
+    "tier": "A",
     "patch": "0.5.1",
     "summary": "Скелеты-снайперы: поднимает лучников-нежить, что расстреливают врагов издалека. Спокойный минионный стиль.",
     "keySkills": [
@@ -1779,7 +1779,7 @@
     "name": "Permafrost Bolt Witchhunter",
     "className": "Mercenary",
     "ascendancy": "Witchhunter",
-    "tier": "B",
+    "tier": "A",
     "patch": "0.5.1",
     "summary": "Морозные болты: замораживает цели арбалетными выстрелами, контролируя бой. Точный и безопасный стрелок.",
     "keySkills": [
